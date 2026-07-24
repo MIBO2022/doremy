@@ -41,9 +41,6 @@ export interface NavigationItem {
 export const PRIMARY_NAV: readonly NavigationItem[] = [
   { href: '/start/', label: '我們怎麼開始', english: 'Start Here' },
   { href: '/tag/幼兒英文/', label: '幼兒英文', english: 'English for Kids' },
-  { href: '/category/線上外師課/', label: '線上外師課', english: 'Online Classes' },
-  { href: '/resources/', label: '免費資源', english: 'Free Resources' },
-  { href: '/category/親子共學/', label: '親子共學', english: 'Family Learning' },
   { href: '/about/', label: '關於 Rose Lab', english: 'About Rose Lab' },
 ] as const;
 
@@ -52,9 +49,6 @@ export const MOBILE_NAV: readonly NavigationItem[] = [
   { href: '/start/', label: '我們怎麼開始', english: 'Start Here' },
   { href: '/blog/', label: '全部文章', english: 'All Articles' },
   { href: '/tag/幼兒英文/', label: '幼兒英文', english: 'English for Kids' },
-  { href: '/category/線上外師課/', label: '線上外師課', english: 'Online Classes' },
-  { href: '/resources/', label: '免費資源', english: 'Free Resources' },
-  { href: '/category/親子共學/', label: '親子共學', english: 'Family Learning' },
   { href: '/trial-guide/', label: '試聽前必看', english: 'Trial Guide' },
   { href: '/about/', label: '關於 Rose Lab', english: 'About Rose Lab' },
 ] as const;
@@ -75,7 +69,7 @@ export const HOME_CATEGORIES: readonly HomeCategory[] = [
 ] as const;
 
 export const CATEGORY_META: Record<string, { description: string; color: string }> = {
-  '免費英文資源': {
+  '免費資源': {
     description: '實際使用過的英文網站、App 與家庭用法。',
     color: '#f6f0fb',
   },
