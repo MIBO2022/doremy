@@ -12,7 +12,7 @@ tags:
   - "TutorABC"
   - "免費試聽"
 featured: true
-popularRank: 4
+popularRank: 1
 cover: "/images/blog/tutorjr-100-lessons-cover.webp"
 coverAlt: "幼兒適合線上外師課嗎？陪女兒上完10堂 tutorJr 後的真實心得"
 ---
