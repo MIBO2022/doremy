@@ -690,8 +690,8 @@ Starfall可以提供標準發音、字母、自然發音、故事與遊戲，但
 
 不同工具扮演不同角色，不需要互相取代。
 
-<nav class="evergreen-jump" aria-label="本文快速導覽">
-  <p>快速找到你最關心的答案</p>
+<nav class="evergreen-jump" aria-label="tutorJr">
+  <p>我們搭配每週1~2堂 tutorJr線上外師一對一課程</p>
   <div>
   <a href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=article_top_button">預約20分鐘免費一對一試聽</a>
   <a href="/trial-guide/">先看試聽前準備</a>
