@@ -15,8 +15,6 @@ tags:
   - "幼兒英文"
 featured: true
 popularRank: 2
-cover: "/images/blog/not-all-english-kindergarten-cover.webp"
-coverAlt: "全美語幼兒園費用與每月2萬元教育預算安排"
 ---
 
 ## 先說結論
