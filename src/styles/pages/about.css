@@ -38,7 +38,7 @@
   display:block;
   width:100%;
   height:auto;
-  aspect-ratio:4 / 5;
+  aspect-ratio:3 / 4;
   object-fit:cover;
   object-position:center;
 }
@@ -189,7 +189,7 @@
   }
 
   .about-hero-image img{
-    aspect-ratio:4 / 5;
+    aspect-ratio:3 / 4;
   }
 
   .about-hero-content .section-kicker{
