@@ -14,7 +14,7 @@ tags:
   - "美語啟蒙"
   - "幼兒英文"
 featured: true
-popularRank: 2
+popularRank: 3
 cover: "/images/blog/not-all-english-kindergarten-cover.webp"
 coverAlt: "全美語幼兒園值得嗎？算完一年費用後，我們重排每月2萬元教育預算"
 ---
