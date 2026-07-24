@@ -13,6 +13,8 @@ tags:
   - "免費試聽"
 featured: true
 popularRank: 4
+cover: "/images/blog/tutorjr-10-lessons-parent-review-cover.webp"
+coverAlt: "幼兒適合線上外師課嗎？陪女兒上完10堂 tutorJr 後的真實心得"
 ---
 
 第一次陪女兒上線上外師課時，她幾乎整堂都在看我。
