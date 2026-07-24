@@ -16,6 +16,8 @@ tags:
   - "英文App"
 featured: true
 popularRank: 1
+cover: "/images/blog/starfall-60-days-review-evergreen-cover.webp"
+coverAlt: "Starfall完整評價｜英文不好也能陪孩子學英文？4歲女兒60天真實紀錄"
 ---
 <div class="evergreen-meta" aria-label="文章資訊">
   <span>真實使用紀錄</span>
