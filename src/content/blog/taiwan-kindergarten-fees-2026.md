@@ -14,8 +14,6 @@ tags:
   - "全美語幼兒園費用"
 featured: true
 popularRank: 3
-cover: "/images/blog/taiwan-kindergarten-fees-2026-cover.webp"
-coverAlt: "115學年度台灣公立、非營利、準公共、雙語與全美語幼兒園費用整理"
 ---
 
 ## 先看結論
