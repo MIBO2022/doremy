@@ -18,7 +18,7 @@
 
 .about-hero-grid{
   display:grid;
-  grid-template-columns:minmax(280px,400px) minmax(0,1fr);
+  grid-template-columns:minmax(130px,200px) minmax(0,1fr);
   align-items:center;
   gap:64px;
 }
