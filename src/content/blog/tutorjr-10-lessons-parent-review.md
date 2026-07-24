@@ -13,8 +13,6 @@ tags:
   - "免費試聽"
 featured: true
 popularRank: 4
-cover: "/images/blog/tutorjr-10-lessons-cover.webp"
-coverAlt: "孩子在家使用平板上一對一線上外師課"
 ---
 
 第一次陪女兒上線上外師課時，她幾乎整堂都在看我。
