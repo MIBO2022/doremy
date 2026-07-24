@@ -64,7 +64,7 @@ export type HomeCategory = readonly [
 export const HOME_CATEGORIES: readonly HomeCategory[] = [
   ['幼兒英文', '零基礎、慢熟與第一次接觸英文的真實紀錄。', '/tag/幼兒英文/', '#fcecef'],
   ['線上外師課', '試聽、選老師、陪課與孩子沉默時怎麼判斷。', '/category/線上外師課/', '#edf5e9'],
-  ['免費資源', 'Starfall、Khan Academy Kids 與家庭實際用法。', '/resources/', '#f6f0fb'],
+  ['免費資源', 'Starfall、Khan Academy Kids 與家庭實際用法。', '/category/免費資源/', '#f6f0fb'],
   ['親子共學', '忙碌家庭也能執行的短時間英文安排。', '/category/親子共學/', '#fff3dc'],
 ] as const;
 
