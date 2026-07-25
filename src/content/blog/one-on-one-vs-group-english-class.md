@@ -2,7 +2,7 @@
 title: "幼兒一對一還是團體英文課？從孩子個性與課堂反應判斷"
 seoTitle: "幼兒一對一還是團體課？6個課堂反應判斷方法"
 description: "幼兒一對一還是團體課怎麼選？比較開口機會、課堂壓力、教學節奏、同儕刺激與費用，並用兩次試聽觀察孩子真正適合的英文課型。"
-draft: true
+draft: false
 pubDate: 2026-07-25
 updatedDate: 2026-07-25
 author: "Rose Lab"
