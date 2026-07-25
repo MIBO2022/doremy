@@ -2,7 +2,7 @@
 title: "家長英文不好，也能陪孩子學英文嗎？5個不必自己教的方法"
 seoTitle: "家長英文不好怎麼教小孩？5個不必自己硬教的方法"
 description: "家長英文不好怎麼陪孩子學英文？從開始習慣、操作工具、記錄反應到交給點讀與外師，整理5個不必自己硬教的方法及常見錯誤。"
-draft: true
+draft: false
 pubDate: 2026-07-25
 updatedDate: 2026-07-25
 author: "Rose Lab"
