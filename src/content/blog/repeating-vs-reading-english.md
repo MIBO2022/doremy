@@ -2,7 +2,7 @@
 title: "孩子會跟著App念，代表會讀英文嗎？跟讀、背誦、認字、拼讀與閱讀的差別"
 seoTitle: "跟讀算會閱讀嗎？孩子會背但不會讀的5種判斷方法"
 description: "孩子會跟著英文App念、看圖答對，不一定代表已會獨立閱讀。本文分清跟讀、背誦、認字、拼讀與閱讀，並提供關聲音、移除圖片、陌生單字及隔日重測方法。"
-draft: true
+draft: false
 pubDate: 2026-07-25
 updatedDate: 2026-07-25
 author: "Rose Lab"
