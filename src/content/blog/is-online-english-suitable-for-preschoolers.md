@@ -2,7 +2,7 @@
 title: "幼兒適合線上英文嗎？年齡不是唯一判斷標準"
 seoTitle: "幼兒適合線上英文嗎？6項準備度與試聽判斷"
 description: "幼兒適合線上英文嗎？從專注時間、陌生成人互動、聽不懂時的反應、非口語回答、家長陪同及試聽機制，判斷孩子是否適合開始線上英文。"
-draft: true
+draft: false
 pubDate: 2026-07-25
 updatedDate: 2026-07-25
 author: "Rose Lab"
