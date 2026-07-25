@@ -12,6 +12,8 @@ tags:
   - "線上外師課"
   - "親子共學"
 featured: false
+cover: "/images/blog/app-and-teacher-cover.webp"
+coverAlt: "Starfall、Khan Academy Kids 和線上外師課怎麼搭配？我們家的幼兒英文安排"
 ---
 
 ## 先看結論
