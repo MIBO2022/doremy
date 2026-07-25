@@ -2,7 +2,7 @@
 title: "幼兒英文每天學多久？陪4歲女兒持續60天後的安排與調整"
 seoTitle: "幼兒英文每天學多久？每天10分鐘的實測與調整"
 description: "幼兒英文每天多久才夠？整理4歲女兒持續60天的家庭紀錄，說明5、10、25分鐘能做什麼、App、共讀與外師課如何安排，以及孩子抗拒時怎麼調整。"
-draft: true
+draft: false
 pubDate: 2026-07-25
 updatedDate: 2026-07-25
 author: "Rose Lab"
