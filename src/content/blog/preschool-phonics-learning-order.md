@@ -2,7 +2,7 @@
 title: "幼兒自然發音怎麼學？從字母音、合音到簡單閱讀的順序"
 seoTitle: "幼兒自然發音怎麼學？字母音、CVC合音到閱讀順序"
 description: "幼兒自然發音怎麼教？整理字母名稱、音韻意識、字母音、CVC拼讀、blending合音、可解碼讀本與新單字測試的完整學習順序。"
-draft: true
+draft: false
 pubDate: 2026-07-25
 updatedDate: 2026-07-25
 author: "Rose Lab"
