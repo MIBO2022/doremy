@@ -3,7 +3,7 @@ title: "4歲學英文怎麼安排？每天10分鐘的家庭學習時間表"
 seoTitle: "4歲學英文怎麼安排？每天10分鐘英文啟蒙時間表"
 description: "4歲英文啟蒙不用每天塞滿課程。分享我們家每天10分鐘的真實安排，以及Starfall、Khan Academy Kids、英文繪本和線上外師課的分工，附一週時間表。"
 draft: false
-pubDate: 2026-07-25
+pubDate: 2026-07-18
 updatedDate: 2026-07-25
 author: "Rose Lab"
 category: "幼兒英文"
