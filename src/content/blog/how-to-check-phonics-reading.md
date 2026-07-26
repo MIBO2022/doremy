@@ -3,7 +3,7 @@ title: "如何判斷孩子真的會拼讀？6個在家就能做的小測試"
 seoTitle: "如何判斷孩子會拼讀？6個不靠App提示的家庭小測試"
 description: "孩子關掉聲音還會不會讀？本文提供6個不造成考試壓力的家庭拼讀觀察方法，包含CVC新單字、移除圖片、隔日重測與家庭觀察紀錄表。"
 draft: false
-pubDate: 2026-07-25
+pubDate: 2026-07-23
 updatedDate: 2026-07-25
 author: "Rose Lab"
 category: "幼兒英文"
