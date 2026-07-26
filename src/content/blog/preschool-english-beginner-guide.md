@@ -3,7 +3,7 @@ title: "幼兒英文啟蒙怎麼開始？3～6歲家庭實作路線圖"
 seoTitle: "幼兒英文啟蒙怎麼開始？3～6歲學習順序與四週計畫"
 description: "幼兒英文幾歲開始？零基礎先聽說、字母還是自然發音？整理3～6歲幼兒英文學習順序、App、繪本、卡通、外師課分工，以及每天10分鐘的四週入門安排。"
 draft: false
-pubDate: 2026-07-25
+pubDate: 2026-07-17
 updatedDate: 2026-07-25
 author: "Rose Lab"
 category: "幼兒英文"
