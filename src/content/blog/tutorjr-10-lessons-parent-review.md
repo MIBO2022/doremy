@@ -2,7 +2,7 @@
 title: "tutorJr心得｜4歲女兒上完10堂一對一外師課的真實變化與優缺點"
 description: "女兒一開始不敢跟外師說話，上完10堂 tutorJr 一對一課程後，她有哪些變化？分享台灣媽媽的陪課經驗、免費試聽觀察重點，以及選方案前要先問清楚的事情。"
 draft: false
-pubDate: 2026-07-18
+pubDate: 2026-07-14
 updatedDate: 2026-07-18
 category: "線上外師課"
 tags:
