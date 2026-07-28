@@ -13,7 +13,7 @@ tags:
   - "免費試聽"
 featured: true
 popularRank: 1
-cover: "/images/blog/tutorjr-100-lessons-cover.webp"
+cover: "/images/blog/tutorjr-10-lessons-cover.webp"
 coverAlt: "tutorJr心得｜4歲女兒上完10堂一對一外師課的真實變化與優缺點"
 ---
 
