@@ -2,7 +2,7 @@
 title: "4歲孩子上線上英文，需要先預習嗎？我們實測3堂有效的課前準備、課後複習方法"
 seoTitle: "4歲孩子上線上英文要預習嗎？課前準備、課後複習完整分享｜tutorJr 第14堂心得"
 description: "4歲孩子上線上英文需要先預習嗎？分享我們連續3堂課實測有效的課前準備與課後複習方式，包括 Starfall 暖身、教材預習、遊戲式複習，以及如何建立孩子對英文課的期待。"
-draft: true
+draft: false
 pubDate: 2026-07-30
 updatedDate: 2026-07-30
 author: "Rose Lab"
