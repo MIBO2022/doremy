@@ -1426,7 +1426,7 @@ tutorJr／TutorABC 提供約 20 分鐘的一對一外師免費試聽。
 </table>
 </div>
 
-<aside class="evergreen-note evergreen-note--key"><p class="evergreen-note-title">這張表沒有列單堂價格</p><p>各平台的活動、堂數、訂閱、指定老師費用與贈課會持續變動。資料嚴格模式下，沒有同一查核日期與同一計算基準，就不應直接比較「誰一堂最便宜」。</p></aside>
+<aside class="evergreen-note evergreen-note--key"><p class="evergreen-note-title">這張表沒有列單堂價格</p><p>各平台的活動、堂數、訂閱、指定老師費用與贈課會持續變動。</p></aside>
 
 ### Rose Lab 怎麼用這張表做選擇？
 
