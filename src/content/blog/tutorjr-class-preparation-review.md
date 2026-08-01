@@ -17,6 +17,12 @@ cover: "/images/blog/tutorjr-class-preparation-review-cover.webp"
 coverAlt: "tutorJr課前準備｜4歲孩子上線上英文，需要先預習嗎？我們實測3堂有效的課前準備、課後複習方法"
 ---
 
+<div class="evergreen-meta" aria-label="文章資訊">
+  <span>真實使用紀錄</span>
+  <span>約5分鐘閱讀</span>
+  <span>最後更新：2026/07/30</span>
+</div>
+
 ## 先看結論
 
 很多家長開始安排孩子上**幼兒英文**或**線上英文課程**時，都會有同樣的疑問：
