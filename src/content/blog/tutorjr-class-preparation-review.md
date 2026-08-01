@@ -267,8 +267,7 @@ coverAlt: "tutorJr課前準備｜4歲孩子上線上英文，需要先預習嗎�
 
 我們家也是完成免費體驗後，才決定正式開始上課。
 
-👉 **【tutorJr 免費體驗】**  
-**（https://www.tutorabc.com/activity/TrialClass?
+👉 **[tutorJr 免費體驗]（https://www.tutorabc.com/activity/TrialClass?
 fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm
 _campaign=tutorabc_trial&utm_content=trial_guide_button）**
 
