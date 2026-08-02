@@ -1,0 +1,2 @@
+<!--設定舊文章的 301 永久轉址，格式為「來源、目的地、狀態碼」-->
+/blog/tutorjr-10-lessons/ /blog/tutorjr-10-lessons-parent-review/ 301
