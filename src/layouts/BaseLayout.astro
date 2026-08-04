@@ -4,6 +4,7 @@ import Footer from '../components/Footer.astro';
 import JsonLd from '../components/seo/JsonLd.astro';
 import '../styles/global.css';
 import { SITE } from '../config/site';
+import "../styles/utilities/image-protection.css";
 
 interface BreadcrumbItem {
   name: string;
@@ -186,5 +187,11 @@ const structuredData = {
     <Header />
     <div class="site-content" id="main-content" tabindex="-1"><slot /></div>
     <Footer />
+
+    <script type="module">
+        import { initializeSite } from "../scripts/init";
+        initializeSite();
+    </script>
+
   </body>
 </html>
