@@ -508,3 +508,54 @@
   .related-article-card h3{font-size:16px}
 }
 
+/* =========================================================
+   05｜img-gallery
+   ========================================================= */
+
+.img-gallery{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:1rem;
+    margin:2rem 0;
+}
+
+.img-gallery figure{
+    margin:0;
+}
+
+.img-gallery img{
+    width:100%;
+    border-radius:16px;
+    display:block;
+    box-shadow:0 8px 24px rgba(0,0,0,.08);
+}
+
+.img-gallery figcaption{
+    margin-top:.75rem;
+    font-size:.9rem;
+    line-height:1.6;
+    color:#666;
+    text-align:center;
+}
+
+@media(max-width:768px){
+
+.img-gallery{
+    display:flex;
+    overflow-x:auto;
+    gap:1rem;
+    scroll-snap-type:x mandatory;
+    -webkit-overflow-scrolling:touch;
+    padding-bottom:.5rem;
+}
+
+.img-gallery::-webkit-scrollbar{
+    display:none;
+}
+
+.img-gallery figure{
+    flex:0 0 100%;
+    scroll-snap-align:start;
+}
+
+}
