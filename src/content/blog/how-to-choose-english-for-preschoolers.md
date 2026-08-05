@@ -604,7 +604,7 @@ Starfall、英文繪本、YouTube，都可以做到。
 
 下面三張畫面，就是我們實際購買方案、課程安排與教材內容。
 
-<div class="tutorjr-gallery">
+<div class="img-gallery">
 
   <figure>
     <img
