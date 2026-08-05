@@ -582,7 +582,7 @@ Starfall、英文繪本、YouTube，都可以做到。
 
 其實不是。
 
-我們最初購買的是：
+我們最初考慮購買的是：
 
 - 52 堂 Kids 核心一對一課程
 - 52 堂 大會堂
@@ -601,6 +601,45 @@ Starfall、英文繪本、YouTube，都可以做到。
 |---|---|
 | 52 堂 Kids 核心一對一課程 | 建立英文學習習慣，讓孩子敢和外師互動。 |
 | 52 堂 National Geographic 一對一課程 | 自然銜接下一階段教材，不需要重新適應不同的學習模式。 |
+
+下面三張畫面，就是我們實際購買方案、課程安排與教材內容。
+
+<div class="tutorjr-gallery">
+
+  <figure>
+    <img
+      src="/images/blog/tutorjr-order.webp"
+      alt="tutorJr Kids 核心課程 104 堂一對一訂單"
+      loading="lazy"
+    >
+    <figcaption>
+      我們最後選擇 52 堂 Kids 核心一對一課程＋52 堂 National Geographic 一對一課程，共 104 堂。
+    </figcaption>
+  </figure>
+
+  <figure>
+    <img
+      src="/images/blog/tutorjr-teachers.webp"
+      alt="tutorJr 指定老師與 Everyday English 免費互動課"
+      loading="lazy"
+    >
+    <figcaption>
+      合約期間每天都有 Everyday English 免費互動課，也可以依需求指定 US／UK 老師。
+    </figcaption>
+  </figure>
+
+  <figure>
+    <img
+      src="/images/blog/tutorjr-material.webp"
+      alt="tutorJr Kids 核心教材與 National Geographic 教材"
+      loading="lazy"
+    >
+    <figcaption>
+      我們希望孩子循序漸進，因此選擇 Kids 核心教材，再銜接 National Geographic。
+    </figcaption>
+  </figure>
+
+</div>
 
 > **註：本文分享的是我們當時實際購買與調整方案的經驗，由課程顧問協助申請後獲公司同意。不同時期的方案內容及是否可調整，仍應以 tutorJr 官方實際提供方案為準。**
 
