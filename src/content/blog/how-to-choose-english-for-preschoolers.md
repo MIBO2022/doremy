@@ -603,7 +603,7 @@ Starfall、英文繪本、YouTube，都可以做到。
 
   <figure>
     <img
-      src="/images/blog/tutorjr-order.webp"
+      src="public/images/blog/tutorjr-order.webp"
       alt="tutorJr Kids 核心課程 104 堂一對一訂單"
       loading="lazy"
     >
@@ -625,7 +625,7 @@ Starfall、英文繪本、YouTube，都可以做到。
 
   <figure>
     <img
-      src="/images/blog/tutorjr-material.webp"
+      src="public/images/blog/tutorjr-order.webp"
       alt="tutorJr Kids 核心教材與 National Geographic 教材"
       loading="lazy"
     >
