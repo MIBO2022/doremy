@@ -193,5 +193,21 @@ const structuredData = {
     console.log("init loaded");
 </script>
 
+<!--方案2-->
+<script type="module">
+document.addEventListener("astro:page-load", () => {
+    document.addEventListener("copy", (event) => {
+        const selection = window.getSelection()?.toString().trim() ?? "";
+        if (!selection || selection.length <= 30) return;
+        event.preventDefault();
+        event.clipboardData.setData(
+            "text/plain",
+            `請閱讀原文：${window.location.href}`
+        );
+        alert("超過30字請分享文章網址。");
+    });
+});
+</script>
+
   </body>
 </html>
