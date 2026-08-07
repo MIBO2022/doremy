@@ -788,7 +788,7 @@ Starfall、英文繪本、YouTube，都可以做到。
 <details>
 <summary>家長英文不好，也能陪孩子學英文嗎？</summary>
 <p>可以。我自己的英文程度也很普通，因此更希望孩子從小接觸自然的英美口音。陪伴孩子學英文，不一定要自己教，而是陪她建立每天接觸英文的習慣，課後一起複習即可。</p>
-👉 延伸閱讀：<a href="/blog/parents-poor-english-help-kids/">家長英文不好，也能陪孩子學英文嗎？5 個不必自己教的方法</a>
+<p>👉 延伸閱讀：<a href="/blog/parents-poor-english-help-kids/">家長英文不好，也能陪孩子學英文嗎？5 個不必自己教的方法</a></p>
 </details>
 
 <details>
@@ -859,7 +859,7 @@ Starfall、英文繪本、YouTube，都可以做到。
 <details>
 <summary>tutorJr 有免費試聽嗎？如何預約？</summary>
 <p>有。tutorJr 提供 20 分鐘一對一免費試聽課。我很建議先陪孩子實際上一堂課，再觀察老師是否懂得引導害羞、零基礎的孩子，比單純看網路評價更有幫助。</p>
-<a href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=article_top_button">立即預約免費試聽</a>
+<p><a href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=article_top_button">立即預約免費試聽</a></p>
 </details>
 
 <details>
