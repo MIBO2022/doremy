@@ -33,7 +33,6 @@ coverAlt: "4歲零基礎學英文｜我們比較全美幼、雙語幼、補習�
   <h2>這不是一篇平台推薦文，也不是告訴你哪一家最好。</h2>
   <p>這是一位媽媽陪伴 4 歲女兒從零開始學英文的完整紀錄。從每天 10 分鐘 Starfall 建立英文習慣，到比較全美幼、雙語幼、補習班、英文 App、真人外師，再到實際試聽與正式上課，希望能幫助還在猶豫的家長，找到真正適合自己孩子的學習方式。</p>
   <div class="evergreen-summary-grid">
-
       <div>
       <h3>比較適合</h3>
       <ul>
@@ -52,11 +51,9 @@ coverAlt: "4歲零基礎學英文｜我們比較全美幼、雙語幼、補習�
         <li>孩子目前更適合其他學習方式</li>
       </ul>
     </div>
-
   </div>
   <p class="evergreen-one-line"><strong>一句話結論：</strong>先建立孩子每天接觸英文的習慣，再找到適合的老師，比急著選哪一個平台更重要。</p>
 </div>
-
 <nav class="evergreen-jump" aria-label="本文快速導覽">
   <p>快速找到你最想了解的內容</p>
   <div>
@@ -599,7 +596,6 @@ Starfall、英文繪本、YouTube，都可以做到。
 
 以下是我們的Kids課程訂單:
 <div class="img-gallery">
-
     <figure>
         <img
             src="/images/blog/tutorjr-order.webp"
@@ -620,9 +616,7 @@ Starfall、英文繪本、YouTube，都可以做到。
             alt="TutorJr Kids 線性教材"
             loading="lazy">
     </figure>
-
 </div>
-
 對我們來說，真正重要的不是 104 堂。
 而是孩子可以按照自己的步調，一步一步累積能力。
 
