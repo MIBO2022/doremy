@@ -487,7 +487,7 @@ Starfall、英文繪本、YouTube，都可以做到。
 
 | 比較重點 | OiKID | 51Talk | tutorJr |
 |---|---|---|---|
-| **試聽老師** | 美國老師 | 菲律賓老師 | 英美籍老師 |
+| **試聽老師** | US籍老師 | 菲律賓老師 | UK籍老師 |
 | **女兒第一堂反應** | 幾乎沒有開口，一直看著媽媽。 | 願意跟著老師重複幾句英文。 | 一開始也害羞，但慢慢願意回答老師。 |
 | **老師帶動互動能力** | 上課很活潑，但沒有成功把女兒帶進互動。 | 很有活力，一直鼓勵孩子開口。 | 願意等待、鼓勵，再換不同方式引導孩子回答。 |
 | **老師是否懂幼兒** | 比較偏依教材進行，不同老師差異較大。 | 很有耐心，但偏帶著孩子完成課程。 | 很懂 4 歲孩子的節奏，也知道怎麼陪害羞孩子建立信心。 |
@@ -681,7 +681,7 @@ Starfall、英文繪本、YouTube，都可以做到。
 
 如果你想知道，我們上完前 10 堂課後，孩子有哪些改變？有哪些地方和我們原本想像的不一樣？
 歡迎繼續閱讀這篇實際紀錄：
-👉 ** [幼兒適合線上外師課嗎？陪女兒上完10堂TutorJr後的真實心得](/blog/tutorjr-10-lessons-parent-review/)**
+👉 **[幼兒適合線上外師課嗎？陪女兒上完10堂TutorJr後的真實心得](/blog/tutorjr-10-lessons-parent-review/)**
 
 這些改變，看起來都很小。
 但對一個 4 歲、零基礎、第一次接觸真人外師的孩子來說，每一步都代表著她正在建立對英文的信心。
@@ -788,6 +788,7 @@ Starfall、英文繪本、YouTube，都可以做到。
 <details>
 <summary>家長英文不好，也能陪孩子學英文嗎？</summary>
 <p>可以。我自己的英文程度也很普通，因此更希望孩子從小接觸自然的英美口音。陪伴孩子學英文，不一定要自己教，而是陪她建立每天接觸英文的習慣，課後一起複習即可。</p>
+👉 延伸閱讀：<a href="/blog/parents-poor-english-help-kids/">家長英文不好，也能陪孩子學英文嗎？5 個不必自己教的方法</a>
 </details>
 
 <details>
@@ -858,6 +859,7 @@ Starfall、英文繪本、YouTube，都可以做到。
 <details>
 <summary>tutorJr 有免費試聽嗎？如何預約？</summary>
 <p>有。tutorJr 提供 20 分鐘一對一免費試聽課。我很建議先陪孩子實際上一堂課，再觀察老師是否懂得引導害羞、零基礎的孩子，比單純看網路評價更有幫助。</p>
+<a href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=article_top_button">立即預約免費試聽</a>
 </details>
 
 <details>
@@ -883,6 +885,7 @@ Starfall、英文繪本、YouTube，都可以做到。
 <details>
 <summary>上了 10 堂課後，孩子真的有改變嗎？</summary>
 <p>有。第一次試聽時，女兒幾乎不敢開口；上完前 10 堂課後，她開始主動和老師打招呼、回答問題，也越來越期待上課。我們把完整過程整理在另一篇心得文章中。</p>
+<p>👉 延伸閱讀：<a href="/blog/starfall-60-days-review-evergreen/">Starfall 完整評價｜英文不好也能陪孩子學英文？4 歲女兒 60 天真實紀錄</a></p>
 </details>
 
 <details>
