@@ -597,7 +597,7 @@ Starfall、英文繪本、YouTube，都可以做到。
 
 > **註：本文分享的是我們當時實際購買與調整方案的經驗，由課程顧問協助申請後獲公司同意。不同時期的方案內容及是否可調整，仍應以 tutorJr 官方實際提供方案為準。**
 
-以下是我們的課程訂單:
+以下是我們的Kids課程訂單:
 <div class="img-gallery">
     <figure>
         <img src="images/blog/tutorjr-order.webp"
