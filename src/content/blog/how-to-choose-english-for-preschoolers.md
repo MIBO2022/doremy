@@ -25,7 +25,7 @@ coverAlt: "4歲零基礎學英文｜我們比較全美幼、雙語幼、補習�
 <div class="evergreen-meta" aria-label="文章資訊">
   <span>真實使用紀錄</span>
   <span>約18分鐘閱讀</span>
-  <span>最後更新：2026/08/05</span>
+  <span>最後更新：2026/08/07</span>
 </div>
 
 <div class="evergreen-summary">
