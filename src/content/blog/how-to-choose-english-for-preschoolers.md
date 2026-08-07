@@ -3,7 +3,7 @@ title: "4歲零基礎學英文怎麼開始？我們比較全美幼、雙語幼�
 description: "4歲零基礎學英文怎麼開始？分享我們陪4歲女兒從每天10分鐘 Starfall 建立英文習慣，到比較全美幼、雙語幼、補習班、英文 App、真人外師，最後選擇 tutorJr 的完整歷程。整理不同學習方式比較、平台試聽、選課思考與真實上課經驗，希望提供正在幫孩子挑選第一堂英文課的台灣家長一個真實參考。"
 draft: false
 pubDate: 2026-08-05
-updatedDate: 2026-08-05
+updatedDate: 2026-08-07
 category: "線上外師課"
 tags:
   - "4歲學英文"
@@ -18,7 +18,7 @@ tags:
   - "tutorJr"
   - "tutorJr Kids 核心課程"
 featured: true
-popularRank: 1
+popularRank: 3
 cover: "/images/blog/how-to-choose-english-for-preschoolers-cover.webp"
 coverAlt: "4歲零基礎學英文｜我們比較全美幼、雙語幼、補習班、英文 App、真人外師後，為什麼最後選擇 tutorJr Kids 核心課程"
 ---
