@@ -188,9 +188,10 @@ const structuredData = {
     <div class="site-content" id="main-content" tabindex="-1"><slot /></div>
     <Footer />
 
-    <script is:inline>
-        import "../scripts/init";
-    </script>
+<script type="module">
+    import "../scripts/init";
+    console.log("init loaded");
+</script>
 
   </body>
 </html>
