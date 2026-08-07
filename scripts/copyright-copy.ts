@@ -1,32 +1,27 @@
 export function enableCopyrightCopy() {
 
+    console.log("✅ enableCopyrightCopy 已載入");
+
     document.addEventListener("copy", (event: ClipboardEvent) => {
+
+        console.log("✅ copy 事件觸發");
 
         const selection = window.getSelection()?.toString().trim();
 
         if (!selection) return;
 
-        // 10 字以內正常複製
+        console.log("選取長度：", selection.length);
+
         if (selection.length <= 10) return;
-
-        const copyright = `
-
-────────────────────────
-本文來源：Rose Lab
-${window.location.href}
-
-© ${new Date().getFullYear()} Rose Lab
-https://rose-lab.com
-────────────────────────`;
 
         event.preventDefault();
 
         event.clipboardData?.setData(
             "text/plain",
-            selection.slice(0, 10) + copyright
+            selection.slice(0, 10)
         );
 
-        alert("為尊重原創內容，長篇內容無法直接複製。");
+        alert("測試成功");
 
     });
 
