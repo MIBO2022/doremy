@@ -18,7 +18,7 @@ tags:
   - "tutorJr"
   - "tutorJr Kids 核心課程"
 featured: true
-popularRank: 3
+popularRank: 1
 cover: "/images/blog/how-to-choose-english-for-preschoolers-cover.webp"
 coverAlt: "4歲零基礎學英文｜我們比較全美幼、雙語幼、補習班、英文 App、真人外師後，為什麼最後選擇 tutorJr Kids 核心課程"
 ---
