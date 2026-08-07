@@ -602,14 +602,12 @@ Starfall、英文繪本、YouTube，都可以做到。
             alt="TutorJr 課程訂單"
             loading="lazy">
     </figure>
-
     <figure>
         <img
             src="/images/blog/tutorjr-teachers.webp"
             alt="TutorJr 指定老師和免費互動課"
             loading="lazy">
     </figure>
-
     <figure>
         <img
             src="/images/blog/tutorjr-material.webp"
