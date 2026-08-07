@@ -41,6 +41,7 @@ export interface NavigationItem {
 export const PRIMARY_NAV: readonly NavigationItem[] = [
   { href: '/start/', label: '我們怎麼開始', english: 'Start Here' },
   { href: '/tag/幼兒英文/', label: '幼兒英文', english: 'English for Kids' },
+  { href: '/trial-guide/', label: '試聽前必看', english: 'Trial Guide' },
   { href: '/about/', label: '關於 Rose Lab', english: 'About Rose Lab' },
 ] as const;
 
