@@ -184,8 +184,7 @@ coverAlt: "4歲零基礎學英文｜我們比較全美幼、雙語幼、補習�
 
 再持續約 1～2 個月後，孩子慢慢建立了每天學英文的習慣。
 
-👉 延伸閱讀：
-[Starfall 完整評價｜英文不好也能陪孩子學英文？4歲女兒60天真實紀錄](/blog/starfall-60-days-review-evergreen/)
+
 
 就是從那個時候開始，我才真正改變了自己的想法。
 
@@ -338,7 +337,6 @@ Starfall、英文繪本、YouTube，都可以做到。
 </aside>
 
 <span id="comparison"></span>
-
 ## 我們如何用這 5 個標準，比較不同英文學習方式？
 
 真正開始幫女兒安排英文後，我才發現，沒有哪一種學習方式適合所有孩子。
@@ -751,9 +749,7 @@ Starfall、英文繪本、YouTube，都可以做到。
   </div>
 </nav>
 
-如果你想知道，我們上完前 10 堂課後，孩子有哪些改變？有哪些地方和我們原本想像的不一樣？
-歡迎繼續閱讀這篇實際紀錄：
-👉 ** [幼兒適合線上外師課嗎？陪女兒上完10堂TutorJr後的真實心得](/blog/tutorjr-10-lessons-parent-review/)**
+
 
 ## 報名前，我建議先確認這 5 件事
 
@@ -788,13 +784,11 @@ Starfall、英文繪本、YouTube，都可以做到。
 <details>
 <summary>家長英文不好，也能陪孩子學英文嗎？</summary>
 <p>可以。我自己的英文程度也很普通，因此更希望孩子從小接觸自然的英美口音。陪伴孩子學英文，不一定要自己教，而是陪她建立每天接觸英文的習慣，課後一起複習即可。</p>
-<p>👉 延伸閱讀：<a href="/blog/parents-poor-english-help-kids/">家長英文不好，也能陪孩子學英文嗎？5 個不必自己教的方法</a></p>
 </details>
 
 <details>
 <summary>Starfall 是免費嗎？</summary>
 <p>是的，免費內容已涵蓋 26 個字母、自然發音及基礎拼讀，包含 Starfall ABCs 和 Starfall Learn to Read。進階內容則需付費，家庭方案約 35 美元／年，涵蓋幼兒園至國小的學習內容。我們也是先利用 Starfall 建立每天接觸英文的習慣，再開始安排真人外師課。</p>
-<p>👉 延伸閱讀：<a href="/blog/starfall-60-days-review-evergreen/">Starfall 完整評價｜英文不好也能陪孩子學英文？4 歲女兒 60 天真實紀錄</a></p>
 </details>
 
 <details>
@@ -859,7 +853,7 @@ Starfall、英文繪本、YouTube，都可以做到。
 
 <details>
 <summary>tutorJr 有免費試聽嗎？如何預約？</summary>
-<p>有。tutorJr 提供 20 分鐘一對一免費試聽課。我很建議先陪孩子實際上一堂課，再觀察老師是否懂得引導害羞、零基礎的孩子，比單純看網路評價更有幫助。<a href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=article_top_button">立即預約免費試聽</a></p>
+<p>有。tutorJr 提供 20 分鐘一對一免費試聽課。我很建議先陪孩子實際上一堂課，再觀察老師是否懂得引導害羞、零基礎的孩子，比單純看網路評價更有幫助。</p>
 </details>
 
 <details>
@@ -884,7 +878,7 @@ Starfall、英文繪本、YouTube，都可以做到。
 
 <details>
 <summary>上了 10 堂課後，孩子真的有改變嗎？</summary>
-<p>有。第一次試聽時，女兒幾乎不敢開口；上完前 10 堂課後，她開始主動和老師打招呼、回答問題，也越來越期待上課。我們把完整過程整理在另一篇心得文章中：<a href="/blog/tutorjr-10-lessons-parent-review/">幼兒適合線上外師課嗎？陪女兒上完 10 堂 TutorJr 後的真實心得</a>。</p>
+<p>有。第一次試聽時，女兒幾乎不敢開口；上完前 10 堂課後，她開始主動和老師打招呼、回答問題，也越來越期待上課。我們把完整過程整理在另一篇心得文章中。</p>
 </details>
 
 <details>
