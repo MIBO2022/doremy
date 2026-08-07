@@ -597,6 +597,28 @@ Starfall、英文繪本、YouTube，都可以做到。
 
 > **註：本文分享的是我們當時實際購買與調整方案的經驗，由課程顧問協助申請後獲公司同意。不同時期的方案內容及是否可調整，仍應以 tutorJr 官方實際提供方案為準。**
 
+以下是我們的課程訂單:
+<div class="img-gallery">
+    <figure>
+        <img src="images/blog/tutorjr-order.webp"
+             alt="tutorJr 訂單"
+             loading="lazy">
+    </figure>
+
+    <figure>
+        <img src="images/blog/tutorjr-teachers.webp"
+             alt="tutorJr 指定老師和免費互動課"
+             loading="lazy">
+    </figure>
+
+    <figure>
+        <img src="images/blog/tutorjr-material.webp"
+             alt="tutorJr Kids 線性教材"
+             loading="lazy">
+    </figure>
+</div>
+
+
 對我們來說，真正重要的不是 104 堂。
 而是孩子可以按照自己的步調，一步一步累積能力。
 
