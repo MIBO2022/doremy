@@ -1,27 +1,30 @@
 export function enableCopyrightCopy() {
 
-    console.log("✅ enableCopyrightCopy 已載入");
-
     document.addEventListener("copy", (event: ClipboardEvent) => {
 
-        console.log("✅ copy 事件觸發");
-
-        const selection = window.getSelection()?.toString().trim();
+        const selection = window.getSelection()?.toString() ?? "";
 
         if (!selection) return;
 
-        console.log("選取長度：", selection.length);
+        // 超過 30 個字
+        if (selection.trim().length > 30) {
 
-        if (selection.length <= 10) return;
+            event.preventDefault();
 
-        event.preventDefault();
+            // 覆蓋所有常見格式
+            event.clipboardData?.setData(
+                "text/plain",
+                "請分享文章網址閱讀完整內容：https://rose-lab.com"
+            );
 
-        event.clipboardData?.setData(
-            "text/plain",
-            selection.slice(0, 10)
-        );
+            event.clipboardData?.setData(
+                "text/html",
+                "請分享文章網址閱讀完整內容：https://rose-lab.com"
+            );
 
-        alert("測試成功");
+            alert("為尊重原創內容，不允許複製超過 30 個字。");
+
+        }
 
     });
 
