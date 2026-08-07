@@ -599,25 +599,29 @@ Starfall、英文繪本、YouTube，都可以做到。
 
 以下是我們的Kids課程訂單:
 <div class="img-gallery">
+
     <figure>
-        <img src="images/blog/tutorjr-order.webp"
-             alt="tutorJr 訂單"
-             loading="lazy">
+        <img
+            src="/images/blog/tutorjr-order.webp"
+            alt="TutorJr 課程訂單"
+            loading="lazy">
     </figure>
 
     <figure>
-        <img src="images/blog/tutorjr-teachers.webp"
-             alt="tutorJr 指定老師和免費互動課"
-             loading="lazy">
+        <img
+            src="/images/blog/tutorjr-teachers.webp"
+            alt="TutorJr 指定老師和免費互動課"
+            loading="lazy">
     </figure>
 
     <figure>
-        <img src="images/blog/tutorjr-material.webp"
-             alt="tutorJr Kids 線性教材"
-             loading="lazy">
+        <img
+            src="/images/blog/tutorjr-material.webp"
+            alt="TutorJr Kids 線性教材"
+            loading="lazy">
     </figure>
+
 </div>
-
 
 對我們來說，真正重要的不是 104 堂。
 而是孩子可以按照自己的步調，一步一步累積能力。
@@ -920,11 +924,11 @@ Starfall、英文繪本、YouTube，都可以做到。
 ## 如果你現在重新問我
 4歲零基礎該怎麼開始？
 
-我的答案還是沒有改變：
-✔ 每天 10 分鐘建立英文習慣
-✔ 找一位真正懂幼兒的老師
-✔ 不急著追求進度
-✔ 不急著比較平台
+我的答案還是沒有改變：</br>
+✔ 每天 10 分鐘建立英文習慣</br>
+✔ 找一位真正懂幼兒的老師</br>
+✔ 不急著追求進度</br>
+✔ 不急著比較平台</br>
 ✔ 先讓孩子喜歡英文，再慢慢累積能力
 
 因為現在回頭看，我們真正做對的，不是選了 tutorJr，而是一直把孩子放在所有決策的中心。
