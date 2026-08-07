@@ -2,12 +2,12 @@ export function enableCopyrightCopy() {
 
     document.addEventListener("copy", (event: ClipboardEvent) => {
 
-        const selection = window.getSelection()?.toString();
+        const selection = window.getSelection()?.toString().trim();
 
         if (!selection) return;
 
-        // 太短就不要附版權
-        if (selection.trim().length < 30) return;
+        // 10 字以內正常複製
+        if (selection.length <= 10) return;
 
         const copyright = `
 
@@ -23,8 +23,10 @@ https://rose-lab.com
 
         event.clipboardData?.setData(
             "text/plain",
-            selection + copyright
+            selection.slice(0, 10) + copyright
         );
+
+        alert("為尊重原創內容，長篇內容無法直接複製。");
 
     });
 
