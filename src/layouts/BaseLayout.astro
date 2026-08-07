@@ -2,9 +2,6 @@
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import JsonLd from '../components/seo/JsonLd.astro';
-
-import "../scripts/init";
-
 import '../styles/global.css';
 import { SITE } from '../config/site';
 import "../styles/utilities/image-protection.css";
@@ -192,7 +189,7 @@ const structuredData = {
     <Footer />
 
     <script is:inline>
-        console.log("BaseLayout Loaded");
+        import "../scripts/init";
     </script>
 
   </body>
