@@ -36,7 +36,11 @@ function parseFrontmatter(source, file) {
 
 for (const file of files) {
   const fullPath = path.join(contentDir, file);
-  const source = fs.readFileSync(fullPath, 'utf8');
+
+  const source = fs
+  .readFileSync(fullPath, 'utf8')
+  .replace(/\r\n?/g, '\n');
+  
   const data = parseFrontmatter(source, file);
   for (const key of ['title','description','pubDate','category']) if (!data[key]) errors.push(`${file}: 缺少 ${key}。`);
   if (data.title && data.title.length > 65) warnings.push(`${file}: title 超過 65 字，目前 ${data.title.length} 字；可另填 seoTitle。`);
