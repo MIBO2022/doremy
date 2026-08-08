@@ -1025,7 +1025,8 @@ tutorJr／TutorABC 提供約 20 分鐘的一對一外師免費試聽。
 
 我們家也是完成免費體驗後，才決定正式開始上課。
 
-<div class="success-panel">
+<aside class="evergreen-note evergreen-note--warning">
+  <div class="success-panel">
   <p><strong>想先看看孩子的反應，可以從20分鐘一對一外師免費試聽開始。</strong></p>
   <p>透過下方推薦連結預約後，也可以向顧問詢問當期優惠方案。實際方案內容、價格與活動期限，請以平台當下說明為準。</p>
   <p>
@@ -1033,7 +1034,8 @@ tutorJr／TutorABC 提供約 20 分鐘的一對一外師免費試聽。
       預約20分鐘免費一對一試聽
     </a>
   </p>
-</div>
+</div> 
+</aside>
 
 以下清單是 Rose Lab 依實際試聽、陪課經驗整理出的判斷方式，不是平台的成效保證。
 
