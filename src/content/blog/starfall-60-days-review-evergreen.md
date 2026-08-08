@@ -3,7 +3,7 @@ title: "Starfall完整評價｜英文不好也能陪孩子學英文？4歲女兒
 description: "家長英文不好，也能陪孩子做美語啟蒙嗎？分享我們使用Starfall超過60天的真實親子共學紀錄，包含Starfall ABCs、Learn to Read、自然發音、點讀功能、免費版內容、官方家庭方案與適合哪些家庭。"
 draft: false
 pubDate: 2026-07-16
-updatedDate: 2026-07-21
+updatedDate: 2026-08-08
 category: "免費英文資源"
 tags:
   - "Starfall"
@@ -22,7 +22,7 @@ coverAlt: "Starfall完整評價｜英文不好也能陪孩子學英文？4歲女
 <div class="evergreen-meta" aria-label="文章資訊">
   <span>真實使用紀錄</span>
   <span>約18分鐘閱讀</span>
-  <span>最後更新：2026/07/21</span>
+  <span>最後更新：2026/08/08</span>
 </div>
 
 <div class="evergreen-summary">
