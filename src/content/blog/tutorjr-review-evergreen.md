@@ -1711,15 +1711,15 @@ tutorJr 並不是最便宜的線上英文平台，但它是一套非常完整的
 
 <div class="price-note">
   <div class="price-note-icon">📣</div>
-    <div class="success-panel">
-      <p><strong>想先看看孩子的反應，可以從20分鐘一對一外師免費試聽開始。</strong></p>
-      <p>透過下方推薦連結預約後，也可以向顧問詢問104堂一對一的特殊方案。實際方案內容、價格與活動期限，請以平台當下說明為準。</p>
-      <p>
-        <a class="plan-button" href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=article_bottom_button">
-          預約20分鐘免費一對一試聽
-        </a>
-      </p>
-    </div>
+  <div class="success-panel">
+    <p><strong>想先看看孩子的反應，可以從20分鐘一對一外師免費試聽開始。</strong></p>
+    <p>透過下方推薦連結預約後，也可以向顧問詢問104堂一對一的特殊方案。實際方案內容、價格與活動期限，請以平台當下說明為準。</p>
+    <p>
+      <a class="plan-button" href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=article_bottom_button">
+        預約20分鐘免費一對一試聽
+      </a>
+    </p>
+  </div>
 </div>
 
 <span id="age-guide"></span>
