@@ -612,14 +612,17 @@ tutorJr 的主要課程以 一對一真人外師 為主。
 
 <aside class="evergreen-note evergreen-note--warning"><p class="evergreen-note-title">上述價格為 tutorJr 官網最新售價。</p><p>實際成交價格仍會依活動、優惠及付款方式有所不同，使用Rose Lab推薦連結，最高再享有以上金額的75折~85折優惠(依選擇方案和當期活動而定)。</p></aside>
 
-<div class="success-panel">
-  <p><strong>想先看看孩子的反應，可以從20分鐘一對一外師免費試聽開始。</strong></p>
-  <p>透過下方推薦連結預約後，也可以向顧問詢問104堂一對一的特殊方案。實際方案內容、價格與活動期限，請以平台當下說明為準。</p>
-  <p>
-    <a class="plan-button" href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=article_bottom_button">
-      預約20分鐘免費一對一試聽
-    </a>
-  </p>
+<div class="price-note">
+  <div class="price-note-icon">📣</div>
+    <div class="success-panel">
+      <p><strong>想先看看孩子的反應，可以從20分鐘一對一外師免費試聽開始。</strong></p>
+      <p>透過下方推薦連結預約後，也可以向顧問詢問104堂一對一的特殊方案。實際方案內容、價格與活動期限，請以平台當下說明為準。</p>
+      <p>
+        <a class="plan-button" href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=article_bottom_button">
+          預約20分鐘免費一對一試聽
+        </a>
+      </p>
+    </div>
 </div>
 
 ### 牛津全方位班144堂｜開始建立長期英文學習習慣
