@@ -623,7 +623,6 @@ tutorJr 的主要課程以 一對一真人外師 為主。
         </a>
       </p>
     </div>
-</div>
 
 ### 牛津全方位班144堂｜開始建立長期英文學習習慣
 
@@ -1273,10 +1272,8 @@ tutorJr／TutorABC 提供約 20 分鐘的一對一外師免費試聽。
 
 | 方案 | 使用期限 |
 |---|---|
-|牛津探索班|12 個月|
-|牛津卓越班|18 個月|
-|牛津成長班|24 個月|
-|牛津領航班|24 個月|
+|牛津全方位班144堂|24 個月|
+|牛津全方位班216堂|24 個月|
 
 如果在期限內沒有完成課程，依契約規定，未使用堂數可能失效，因此購買前一定要評估家庭是否有能力在期限內完成。
 
@@ -1711,14 +1708,17 @@ tutorJr 並不是最便宜的線上英文平台，但它是一套非常完整的
 
 先讓孩子試聽，再觀察老師是否願意等待、孩子是否願意繼續，以及家庭能否長期完成課程。最終決定課程是否值得的，不是別人的五星評價，而是它是否適合你的孩子與家庭。
 
-<div class="success-panel">
-  <p><strong>想先看看孩子的反應，可以從20分鐘一對一外師免費試聽開始。</strong></p>
-  <p>透過下方推薦連結預約後，也可以向顧問詢問104堂一對一的特殊方案。實際方案內容、價格與活動期限，請以平台當下說明為準。</p>
-  <p>
-    <a class="plan-button" href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=article_bottom_button">
-      預約20分鐘免費一對一試聽
-    </a>
-  </p>
+<div class="price-note">
+  <div class="price-note-icon">📣</div>
+    <div class="success-panel">
+      <p><strong>想先看看孩子的反應，可以從20分鐘一對一外師免費試聽開始。</strong></p>
+      <p>透過下方推薦連結預約後，也可以向顧問詢問104堂一對一的特殊方案。實際方案內容、價格與活動期限，請以平台當下說明為準。</p>
+      <p>
+        <a class="plan-button" href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=article_bottom_button">
+          預約20分鐘免費一對一試聽
+        </a>
+      </p>
+    </div>
 </div>
 
 <span id="age-guide"></span>
