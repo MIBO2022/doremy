@@ -231,11 +231,10 @@ Starfall可以只完成一小段，不需要每次都上完一堂固定課程，
   <div class="evergreen-timeline-item"><span>2026/7/22 Day 63</span><strong>開始自主學習</strong><p>每天10分鐘，讀1個本主題書+玩2個遊戲</p></div>
   <div class="evergreen-timeline-item"><span>2026/7/29 Day 70</span><strong>意外學會加減法</strong><p>玩加減法遊戲，比APP提前說出英文。</p></div>
   <div class="evergreen-timeline-item"><span>2026/8/7 Day 79</span><strong>發音越來越自然</strong><p>主動讀英文、聽一次能讀完一句話。</p></div>
-</div>
   <div class="evergreen-timeline-item"><span>2026/8/8 Day 80</span><strong>沉迷用英文學數學</strong><p>今天突破十位數加減法，開始玩了「個十百千」4位數加減法</p></div>
 </div>
 
-備註：除了每天10分鐘用Starfall持續輸入英文，我們還會每週安排1~2堂UK或US籍外師一對一線上英文課，幫助女兒逐漸養成「說英文」習慣喔！
+<aside class="evergreen-note evergreen-note--warning"><p class="evergreen-note-title">Starfall負責輸入，tutorJr線上外師課負責輸出</p><p>除了每天10分鐘用Starfall持續輸入英文，我們還會每週安排1~2堂UK或US籍外師一對一線上英文課，幫助女兒逐漸養成「說英文」習慣喔！</p></aside>
 
 ## Day 1：我們從字母與自然發音開始
 
