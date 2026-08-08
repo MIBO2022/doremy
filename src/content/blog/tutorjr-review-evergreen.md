@@ -1,9 +1,9 @@
 ---
-title: "tutorJr 評價｜費用、教材、外師、優缺點完整分析，4 歲適合嗎？台灣家長選課指南（2026）"
+title: "tutorJr 評價｜費用、教材、外師、優缺點完整分析，4 歲適合嗎？台灣家長選課指南（2026年8月最新）"
 description: "tutorJr 評價完整整理：費用、Oxford 牛津教材、CEFR 分級、一對一外師、優缺點與適合年齡，並分享陪 4 歲女兒上課的真實經驗，協助台灣家長判斷是否適合。"
 draft: false
 pubDate: 2026-08-01
-updatedDate: 2026-08-01
+updatedDate: 2026-08-08
 category: "線上外師課"
 tags:
   - "tutorJr"
@@ -23,8 +23,8 @@ coverAlt: "tutorJr 評價｜費用、教材、外師、優缺點完整分析，4
 ---
 <div class="evergreen-meta" aria-label="文章資訊">
   <span>真實上課紀錄</span>
-  <span>約55分鐘閱讀</span>
-  <span>最後更新：2026/08/01</span>
+  <span>約30分鐘閱讀</span>
+  <span>最後更新：2026/08/08</span>
 </div>
 
 <div class="evergreen-summary">
