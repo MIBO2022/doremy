@@ -9,7 +9,6 @@ const INDEXABLE_TAGS = new Set([
   '線上外師課',
   'tutorJr',
   'Starfall',
-  'Khan Academy Kids',
   '4歲學英文',
   '親子共學',
   '自然發音',
