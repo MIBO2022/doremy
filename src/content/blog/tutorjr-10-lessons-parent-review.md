@@ -254,59 +254,6 @@ tutorJr／TutorABC 提供約20分鐘的一對一外師免費試聽。
 - 家長是否能配合上課時間
 - 孩子上完後是否願意再嘗試
 
-<div class="price-note">
-  <div class="price-note-icon">📣</div>
-  <ul>
-    <li>依我們目前取得的方案資訊，一般課程組合為52堂團體課＋52堂一對一課程。</li>
-    <li>透過推薦連結預約後，可以向課程顧問詢問「104堂一對一課程」的特殊方案。</li>
-    <li>104堂一對一並非官網公開方案，是否仍可申請、實際價格、堂數與活動期限，請以顧問當下提供的內容為準。</li>
-    <li>建議先完成試聽，再決定要不要購買長期方案。</li>
-  </ul>
-</div>
-
-<div class="table-scroll">
-<table class="price-table">
-  <thead>
-    <tr>
-      <th>比較項目</th>
-      <th>一般課程組合</th>
-      <th>推薦特殊方案</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>一對一課程</td>
-      <td>52堂</td>
-      <td>104堂</td>
-    </tr>
-    <tr>
-      <td>團體課程</td>
-      <td>52堂</td>
-      <td>以顧問當下說明為準</td>
-    </tr>
-    <tr>
-      <td>是否為公開方案</td>
-      <td>一般方案</td>
-      <td>非官網公開方案</td>
-    </tr>
-    <tr>
-      <td>比較適合</td>
-      <td>想同時體驗團體課與一對一的家庭</td>
-      <td>希望把堂數集中在一對一課程的家庭</td>
-    </tr>
-    <tr>
-      <td>預約方式</td>
-      <td>向平台顧問詢問</td>
-      <td>
-        <a class="plan-button" href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=package_table_button">
-          預約免費試聽並詢問方案
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
 <aside class="evergreen-note evergreen-note--rose">
   <p class="evergreen-note-title">2026年8月最新方案補充：現在的課程組合比我們購買時更完整</p>
 
@@ -353,9 +300,8 @@ tutorJr／TutorABC 提供約20分鐘的一對一外師免費試聽。
 5. 可以自由選老師嗎？
 6. 可以固定同一位老師嗎？
 7. 剩餘堂數能不能延期？
-8. 104堂一對一特殊方案目前是否還能申請？
-9. 優惠內容有沒有期限？
-10. 試聽後是否需要立刻決定？
+8. 優惠內容有沒有期限？
+9. 試聽後是否需要立刻決定？
 
 堂數再多，如果最後上不完，也不一定比較划算。
 
