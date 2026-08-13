@@ -4,7 +4,7 @@ seoTitle: "孩子上線上英文不開口、哭泣怎麼辦？家長陪課判斷
 description: "孩子上線上英文不開口、哭泣或坐不住時，該陪課、降低難度還是暫停？用可觀察的課堂反應判斷，不把每次哭泣都當成必須堅持。"
 draft: false
 pubDate: 2026-07-26
-updatedDate: 2026-07-26
+updatedDate: 2026-08-14
 author: "Rose Lab"
 category: "線上英文"
 tags:
