@@ -3,7 +3,7 @@ title: "tutorJr 評價｜費用、教材、外師、優缺點完整分析，4 �
 description: "tutorJr 評價完整整理：費用、Oxford 牛津教材、CEFR 分級、一對一外師、優缺點與適合年齡，並分享陪 4 歲女兒上課的真實經驗，協助台灣家長判斷是否適合。"
 draft: false
 pubDate: 2026-08-01
-updatedDate: 2026-08-08
+updatedDate: 2026-08-14
 category: "線上外師課"
 tags:
   - "tutorJr"
@@ -24,7 +24,7 @@ coverAlt: "tutorJr 評價｜費用、教材、外師、優缺點完整分析，4
 <div class="evergreen-meta" aria-label="文章資訊">
   <span>真實上課紀錄</span>
   <span>約30分鐘閱讀</span>
-  <span>最後更新：2026/08/08</span>
+  <span>最後更新：2026/08/14</span>
 </div>
 
 <div class="evergreen-summary">
@@ -616,7 +616,7 @@ tutorJr 的主要課程以 一對一真人外師 為主。
   <div class="price-note-icon">📣</div>
   <div class="success-panel">
     <p><strong>想先看看孩子的反應，可以從20分鐘一對一外師免費試聽開始。</strong></p>
-    <p>透過下方推薦連結預約後，也可以向顧問詢問104堂一對一的特殊方案。實際方案內容、價格與活動期限，請以平台當下說明為準。</p>
+    <p>透過Rose Lab推薦連結預約，跟課程顧問Diana說明、可享官方售價再75折~85折，實際方案內容、價格與活動期限，請以平台當下說明為準。</p>
     <p>
       <a class="plan-button" href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=article_bottom_button">
         預約20分鐘免費一對一試聽
@@ -1031,7 +1031,7 @@ tutorJr／TutorABC 提供約 20 分鐘的一對一外師免費試聽。
 <aside class="evergreen-note evergreen-note--warning">
   <div class="success-panel">
   <p><strong>想先看看孩子的反應，可以從20分鐘一對一外師免費試聽開始。</strong></p>
-  <p>透過下方推薦連結預約後，也可以向顧問詢問當期優惠方案。實際方案內容、價格與活動期限，請以平台當下說明為準。</p>
+  <p>透過Rose Lab推薦連結預約，跟課程顧問Diana說明、可享官方售價再75折~85折，實際方案內容、價格與活動期限，請以平台當下說明為準。</p>
   <p>
     <a class="plan-button" href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=article_bottom_button">
       預約20分鐘免費一對一試聽
@@ -1071,61 +1071,40 @@ tutorJr／TutorABC 提供約 20 分鐘的一對一外師免費試聽。
 
 <aside class="evergreen-note evergreen-note--warning"><p class="evergreen-note-title">試聽不能回答所有問題</p><p>試聽可以判斷孩子是否能接受線上互動，但不能代表所有正式老師、後續教材、客服與長期成效。正式購課前仍要看書面方案與契約。</p></aside>
 
-<div class="price-note">
-  <div class="price-note-icon">📣</div>
-  <ul>
-    <li>依我們目前取得的方案資訊，一般課程組合為52 堂團體課＋52 堂一對一課程。</li>
-    <li>透過推薦連結預約後，可以向課程顧問詢問「104 堂一對一課程」的特殊方案。</li>
-    <li>104 堂一對一並非官網公開方案，是否仍可申請、實際價格、堂數與活動期限，請以顧問當下提供的內容為準。</li>
-    <li>建議先完成試聽，再決定要不要購買長期方案。</li>
-  </ul>
-</div>
+<aside class="evergreen-note evergreen-note--rose">
+  <p class="evergreen-note-title">2026年8月最新方案補充：現在的課程組合比我們購買時更完整</p>
 
-<div class="table-scroll">
-<table class="price-table">
-  <thead>
-    <tr>
-      <th>比較項目</th>
-      <th>一般課程組合</th>
-      <th>推薦特殊方案</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>一對一課程</td>
-      <td>52 堂</td>
-      <td>104 堂</td>
-    </tr>
-    <tr>
-      <td>團體課程</td>
-      <td>52 堂</td>
-      <td>以顧問當下說明為準</td>
-    </tr>
-    <tr>
-      <td>是否為公開方案</td>
-      <td>一般方案</td>
-      <td>非官網公開方案</td>
-    </tr>
-    <tr>
-      <td>比較適合</td>
-      <td>想同時體驗團體課與一對一的家庭</td>
-      <td>希望把堂數集中在一對一課程的家庭</td>
-    </tr>
-    <tr>
-      <td>預約方式</td>
-      <td>向平台顧問詢問</td>
-      <td>
-        <a class="plan-button" href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=package_table_button">
-          預約免費試聽並詢問方案
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+  <p>我們購課時，原始方案包含52堂一對一與52堂大師講堂。考量女兒當時只有4歲、英文零基礎，我們更重視一對一外師互動與實際開口的機會，因此請課程顧問協助提出特殊申請，將原本的52堂大師講堂調整為52堂National Geographic一對一課程。</p>
+
+  <p>調整後，我們取得的是<strong>104堂一對一課程</strong>，包含52堂訂製英文一對一與52堂National Geographic一對一。我們當時的實付金額為<strong>NT$6萬以內</strong>。</p>
+
+  <p>不過，依我們目前取得的最新方案資訊，課程組合已經調整為：</p>
+
+  <ul>
+    <li>52堂訂製英文一對一</li>
+    <li>52堂National Geographic一對一</li>
+    <li>52堂Play Time!大師講堂</li>
+    <li>合計104堂一對一＋52堂大師講堂，共156堂</li>
+  </ul>
+
+  <p>換句話說，我們當時需要另外請顧問協助申請，才能把一對一增加到104堂；現在的新方案除了保留104堂一對一，還另外包含52堂大師講堂，而且目前取得的方案價格與我們當時的成交金額相差不大，整體課程內容比我們購買時更完整。</p>
+
+  <p>對4歲、零基礎或比較慢熟的孩子來說，104堂一對一可以累積較多實際開口、回答問題與固定和外師互動的機會；52堂大師講堂則提供歌曲、遊戲與不同形式的英文輸入。兩種課程搭配使用，比單純比較總堂數或平均單堂價格更有參考價值。</p>
+
+  <p><strong>提醒：</strong>我們當時的換課方式屬於個別申請經驗，不代表目前每位家長都需要換課，也不保證可以取得完全相同的條件。課程堂數、價格、贈課、使用期限與活動內容可能隨時間調整，正式購買前請以課程顧問提供的書面方案及契約為準。</p>
+
+  <p>如果孩子是第一次接觸線上外師課，建議先完成免費一對一試聽，觀察孩子能不能接受老師、鏡頭和全英文互動，再決定是否適合購買長期方案。</p>
+
+  <p>
+    <a class="plan-button" href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=special_plan_update">
+      幫孩子預約免費一對一試聽
+    </a>
+  </p>
+
+  <p><small>本文部分連結為推薦連結；透過連結預約不代表一定要購課。建議試聽後先確認孩子的反應，再向顧問索取目前104堂一對一＋52堂大師講堂的完整書面方案。</small></p>
+</aside>
 
 如果之後考慮購課，也建議先閱讀完整心得：
-
 👉 **[tutorJr心得｜4歲女兒上完10堂一對一外師課的真實變化與優缺點](/blog/tutorjr-10-lessons-parent-review/)**
 
 ## 為什麼我們最後選擇 tutorJr？
@@ -1713,7 +1692,7 @@ tutorJr 並不是最便宜的線上英文平台，但它是一套非常完整的
   <div class="price-note-icon">📣</div>
   <div class="success-panel">
     <p><strong>想先看看孩子的反應，可以從20分鐘一對一外師免費試聽開始。</strong></p>
-    <p>透過下方推薦連結預約後，也可以向顧問詢問104堂一對一的特殊方案。實際方案內容、價格與活動期限，請以平台當下說明為準。</p>
+    <p>透過Rose Lab推薦連結預約，跟課程顧問Diana說明、可享官方售價再75折~85折，實際方案內容、價格與活動期限，請以平台當下說明為準。</p>
     <p>
       <a class="plan-button" href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=article_bottom_button">
         預約20分鐘免費一對一試聽
@@ -2044,7 +2023,7 @@ Oxford 教材提供穩定進度，但真正影響女兒願不願意開口的，�
 
 <div class="success-panel">
   <p><strong>想先看看孩子的反應，可以從 20 分鐘一對一外師免費試聽開始。</strong></p>
-  <p>透過下方推薦連結預約後，也可以向顧問詢問 104 堂一對一的特殊方案。實際方案內容、價格與活動期限，請以平台當下說明為準。</p>
+  <p>透過Rose Lab推薦連結預約，跟課程顧問Diana說明、可享官方售價再75折~85折，實際方案內容、價格與活動期限，請以平台當下說明為準。</p>
   <p>
     <a class="plan-button" href="https://www.tutorabc.com/activity/TrialClass?fromWhere=rRNLwvDeRf&m=EsoHL6X&locale=zh_tw&utm_source=rose_lab&utm_medium=website&utm_campaign=tutorabc_trial&utm_content=article_bottom_button">
       預約 20 分鐘免費一對一試聽
