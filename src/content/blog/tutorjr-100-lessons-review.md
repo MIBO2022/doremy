@@ -3,7 +3,7 @@ title: "tutorJr有效嗎？4歲零基礎挑戰100堂一對一外師課：從不�
 description: "tutorJr和幼兒線上英文課有效嗎？4歲零基礎女兒目前完成19次一對一外師課。我們的結論是有效，但不是只買課就有效；完整記錄不敢開口、哭鬧到主動回答的變化，以及家長實測的陪課、預習與複習方法。"
 draft: false
 pubDate: 2026-08-10
-updatedDate: 2026-08-15
+updatedDate: 2026-08-16
 category: "線上外師課"
 tags:
   - "4歲學英文"
@@ -20,7 +20,7 @@ tags:
   - "tutorJr有效嗎"
   - "線上英文課有效嗎"
 featured: true
-popularRank: 3
+popularRank: 1
 cover: "/images/blog/tutorjr-100-lessons-cover.webp"
 coverAlt: "tutorJr有效嗎｜4歲零基礎挑戰100堂一對一外師課真實紀錄"
 ---
@@ -28,7 +28,7 @@ coverAlt: "tutorJr有效嗎｜4歲零基礎挑戰100堂一對一外師課真實�
   <span>4歲零基礎真實紀錄</span>
   <span>100堂持續更新</span>
   <span>目前進度：19／100</span>
-  <span>最後更新：2026/08/15</span>
+  <span>最後更新：2026/08/16</span>
 </div>
 <div class="evergreen-summary">
   <p class="evergreen-eyebrow">30秒先看結論</p>
@@ -442,6 +442,20 @@ TutorABC官方目前也將外籍老師、雙語老師及雙語導師列為不同
 - 字幕重點：老師沒有催促、先接受非口語回應、最後慢慢回到單字或句子
 - 若不適合公開影片，可改用一張模糊處理後的課堂截圖＋文字說明
 -->
+
+<aside class="evergreen-note evergreen-note--rose">
+  <p class="evergreen-note-title">如果孩子已經開始說「我不要學英文」</p>
+
+  <p>這次經驗也再次提醒我，孩子說「不想學英文」，背後不一定只是單純不喜歡英文。</p>
+
+  <p>有時候是覺得太難，有時候是害怕自己說錯，也可能是當下沒有安全感、沒有參與感，或還沒找到真正有興趣的內容。</p>
+
+  <p>我們在開始真人外師課以前，其實也曾經花了大約60天，陪女兒從每天說「我不想學英文」、「學英文沒用」，慢慢走到她自己說「學英文很好玩」、「我好期待學英文」。</p>
+
+  <p>
+    👉 <strong><a href="/blog/child-does-not-like-english/">小孩不喜歡英文怎麼辦？4歲女兒從排斥到主動學英文的60天真實紀錄</a></strong>
+  </p>
+</aside>
 
 這堂課沒有證明她英文突然進步，反而讓我們修正了家長自己的做法。以前看到她不回答，我們很容易焦慮，忍不住解釋、提示、催促；這次才發現，孩子真正需要的可能不是更多道理，而是先確認：即使害怕、沉默，爸爸媽媽和老師也不會立刻否定她。
 
