@@ -757,10 +757,7 @@ Day 39：
 
 我覺得這比兩個月到底背了多少單字，更值得我們開心。
 
-## 小孩不喜歡英文常見問題 FAQ
-
 <span id="faq"></span>
-
 ## 小孩不喜歡英文常見問題 FAQ
 
 <div class="evergreen-faq">
