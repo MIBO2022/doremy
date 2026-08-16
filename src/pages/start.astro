@@ -18,10 +18,24 @@ const startingPoints = [
   },
   {
     number: '02',
+    label: '學習意願',
+    title: '孩子已經開始排斥英文',
+    description:
+      '孩子一直說「我不要學英文」、「學英文沒用」，不一定代表真的不適合。先找出抗拒的原因，再從參與感、難度和興趣慢慢調整。',
+    questions: [
+      '小孩不喜歡英文怎麼辦？',
+      '一直說「我不要學」要逼嗎？',
+      '怎麼從興趣切入，讓孩子願意參與？',
+    ],
+    href: '/blog/child-does-not-like-english/',
+    linkText: '看60天從排斥到主動學習',
+  },
+  {
+    number: '03',
     label: '線上外師課',
     title: '正在考慮線上外師課',
     description:
-      '孩子看到外師不敢回答、一直看媽媽，未必代表不適合。先了解試聽時真正需要觀察什麼。',
+      '孩子看到外師不敢回答、一直看媽媽，未必代表不適合。先了解試聽時真正需要觀察什麼，再決定要不要繼續。',
     questions: [
       '孩子不開口正常嗎？',
       '家長要不要陪在旁邊？',
@@ -31,7 +45,7 @@ const startingPoints = [
     linkText: '查看外師課真實紀錄',
   },
   {
-    number: '03',
+    number: '04',
     label: '免費資源',
     title: '想先找免費或低成本資源',
     description:
@@ -45,7 +59,7 @@ const startingPoints = [
     linkText: '查看免費學習資源',
   },
   {
-    number: '04',
+    number: '05',
     label: '親子共學',
     title: '想建立家庭學習習慣',
     description:
@@ -62,10 +76,24 @@ const startingPoints = [
 
 const quickTopics = [
   {
+    title: '小孩不喜歡英文怎麼辦？',
+    description:
+      '4歲女兒從「我不想學英文」到主動說「我好期待學英文」，整理我們60天真正有效的調整與轉折。',
+    meta: '排斥英文真實紀錄',
+    href: '/blog/child-does-not-like-english/',
+  },
+  {
+    title: 'tutorJr有效嗎？4歲零基礎挑戰100堂一對一外師課',
+    description:
+      '從第一次不敢開口，到逐漸能完整回答、跟老師互動，我們持續記錄100堂一對一外師課，整理老師、教材、上課變化，以及到底值不值得繼續。',
+    meta: '100堂長期實測',
+    href: '/blog/tutorjr-100-lessons-review/',
+  },
+  {
     title: '孩子第一次上外師課，不敢回答怎麼辦？',
     description:
-      '先看我們從緊張、等待媽媽代答，到比較願意自己開口的10堂課紀錄。',
-    meta: '真實陪課紀錄',
+      '如果你更在意前期適應，可以先看我們從緊張、等待媽媽代答，到比較願意自己開口的前10堂課總結。',
+    meta: '前10堂陪課紀錄',
     href: '/blog/tutorjr-10-lessons-parent-review/',
   },
   {
@@ -78,14 +106,14 @@ const quickTopics = [
   {
     title: '我正在比較線上外師課',
     description:
-      '從試聽、選老師、陪課到孩子不回答時的觀察，先了解再做決定。',
+      '從試聽、選老師、陪課到孩子不回答時的觀察，先了解不同學習方式，再做決定。',
     meta: '外師課評估',
     href: '/blog/how-to-choose-english-for-preschoolers/',
   },
   {
     title: '我正在比較 tutorJr 的費用、師資與教材',
     description:
-      '整理最新方案、外師國籍與口音、教材差異、優缺點和CP值，先看清楚再決定要不要試聽。',
+      '整理方案、外師國籍與口音、教材差異、優缺點和CP值，先看清楚再決定要不要試聽。',
     meta: 'tutorJr完整評價',
     href: '/blog/tutorjr-review-evergreen/',
   },
@@ -103,23 +131,26 @@ const ageStages = [
     age: '3–5歲',
     title: '從興趣和遊戲開始',
     description:
-      '孩子開始有自己的喜好，可以透過繪本、遊戲和短時間活動慢慢累積。',
-    href: '/blog/preschool-english-beginner-guide/',
+      '孩子開始有自己的喜好，也可能明確說「我不要」。先從遊戲、繪本和興趣切入，建立願意參與的感覺。',
+    href: '/blog/child-does-not-like-english/',
   },
   {
     age: '5–7歲',
-    title: '增加表達與選擇',
+    title: '增加表達與真人互動',
     description:
-      '除了持續輸入，也可以讓孩子練習表達、選擇內容和建立自己的學習習慣。',
-    href: '/blog/how-to-choose-english-for-preschoolers/',
+      '除了持續輸入，也可以加入真人互動，讓孩子開始練習回答、表達和建立自己的學習習慣。',
+    href: '/blog/tutorjr-100-lessons-review/',
   },
 ];
 ---
 
 <BaseLayout
   title="第一次來 Rose Lab｜從孩子現在的問題開始"
-  description="第一次來 Rose Lab，不知道從哪裡開始？依照幼兒英文、線上外師課、免費資源與親子共學等問題，快速找到適合自己家庭的內容。"
-  breadcrumbs={[{ name: '首頁', path: '/' }, { name: '我們怎麼開始', path: '/start/' }]}
+  description="第一次來 Rose Lab，不知道從哪裡開始？依照幼兒英文、孩子排斥英文、線上外師課、免費資源與親子共學等問題，快速找到適合自己家庭的內容。"
+  breadcrumbs={[
+    { name: '首頁', path: '/' },
+    { name: '我們怎麼開始', path: '/start/' },
+  ]}
 >
   <main class="start-guide-page">
 
@@ -140,24 +171,30 @@ const ageStages = [
         </p>
 
         <div class="start-guide-actions">
-          <a class="start-guide-button start-guide-button-primary" href="#choose-a-problem">
+          <a
+            class="start-guide-button start-guide-button-primary"
+            href="#choose-a-problem"
+          >
             找到我的問題
           </a>
 
-          <a class="start-guide-button start-guide-button-secondary" href="#first-three">
+          <a
+            class="start-guide-button start-guide-button-secondary"
+            href="#first-three"
+          >
             先看推薦文章
           </a>
         </div>
 
         <div class="start-guide-note">
           <strong>這一頁適合正在想：</strong>
-          孩子英文要怎麼開始、外師課適不適合、有哪些免費資源，
+          孩子英文要怎麼開始、已經開始說「我不要學英文」、
+          tutorJr 或一對一外師到底有沒有效、有哪些免費資源，
           或家庭時間有限時該怎麼安排。
         </div>
 
       </div>
     </section>
-
 
     <!-- 依問題開始 -->
     <section
@@ -208,8 +245,7 @@ const ageStages = [
       </div>
     </section>
 
-
-    <!-- 建議先看三篇 -->
+    <!-- 推薦入口 -->
     <section
       class="start-guide-section start-guide-first-section"
       id="first-three"
@@ -227,8 +263,8 @@ const ageStages = [
         </div>
 
         <p class="start-guide-intro">
-          不必研究完整套學習路線。先從最接近你目前疑問的內容開始，
-          看完再決定下一步。
+          不必先研究完整套學習路線。
+          先從最接近你目前疑問的內容開始，看完再決定下一步。
         </p>
 
         <div class="start-guide-feature-list">
@@ -254,8 +290,89 @@ const ageStages = [
       </div>
     </section>
 
+    <!-- 100堂主推 -->
+    <section
+      class="wrap start-guide-section"
+      aria-labelledby="featured-100-lessons-title"
+    >
+      <div class="start-guide-reading-box">
 
-    <!-- 年龄阶段 -->
+        <div>
+          <p class="section-kicker">OUR LONG-TERM REVIEW</p>
+
+          <h2 id="featured-100-lessons-title">
+            如果你最想知道「tutorJr 到底有沒有效？」
+          </h2>
+        </div>
+
+        <div class="start-guide-use-grid">
+
+          <div class="start-guide-use-copy">
+            <p>
+              我們不是只上一次試聽就下結論，而是從4歲零基礎開始，
+              持續記錄一對一真人外師課的實際變化。
+            </p>
+
+            <p>
+              從第一次不太敢開口、需要等待和提示，
+              到後來可以自己回答、跟老師互動，
+              這篇100堂紀錄會持續更新老師、教材、孩子反應和家長觀察。
+            </p>
+
+            <p>
+              如果你正在考慮要不要安排 tutorJr 試聽，
+              我會建議先看這篇，再決定這種學習方式是不是適合你家孩子。
+            </p>
+
+            <div class="start-guide-actions">
+              <a
+                class="start-guide-button start-guide-button-primary"
+                href="/blog/tutorjr-100-lessons-review/"
+              >
+                看100堂長期實測
+              </a>
+
+              <a
+                class="start-guide-button start-guide-button-secondary"
+                href="/trial-guide/"
+              >
+                先看試聽前準備
+              </a>
+            </div>
+          </div>
+
+          <div class="start-guide-steps">
+            <article>
+              <span>1</span>
+              <div>
+                <h3>孩子到底有沒有進步？</h3>
+                <p>持續記錄開口、回答、互動與獨立上課的變化。</p>
+              </div>
+            </article>
+
+            <article>
+              <span>2</span>
+              <div>
+                <h3>什麼老師比較適合4歲？</h3>
+                <p>比較不同老師互動方式，以及孩子真實的上課反應。</p>
+              </div>
+            </article>
+
+            <article>
+              <span>3</span>
+              <div>
+                <h3>值不值得預約試聽？</h3>
+                <p>先看真實使用紀錄，再決定要不要安排第一堂課。</p>
+              </div>
+            </article>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- 年齡階段 -->
     <section
       class="wrap start-guide-section"
       aria-labelledby="age-stage-title"
@@ -287,7 +404,6 @@ const ageStages = [
         }
       </div>
     </section>
-
 
     <!-- 如何使用 Rose Lab -->
     <section
@@ -354,8 +470,7 @@ const ageStages = [
       </div>
     </section>
 
-
-    <!-- 阅读文章时可留意 -->
+    <!-- 閱讀文章時可留意 -->
     <section
       class="wrap start-guide-section"
       aria-labelledby="reading-guide-title"
@@ -399,8 +514,7 @@ const ageStages = [
       </div>
     </section>
 
-
-    <!-- 分类导航 -->
+    <!-- 分類導航 -->
     <section
       class="start-guide-section start-guide-topic-section"
       aria-labelledby="all-topics-title"
@@ -445,22 +559,21 @@ const ageStages = [
       </div>
     </section>
 
-
-    <!-- 结尾 -->
+    <!-- 結尾 -->
     <section class="start-guide-closing">
       <div class="wrap start-guide-closing-inner">
 
         <p>ONE STEP AT A TIME</p>
 
         <h2>
-          今天先找到一篇適合你們家的內容，<br />
-          就已經是一個很好的開始
+          如果你正在考慮真人外師，<br />
+          先看我們實際上了多少堂、孩子到底怎麼變
         </h2>
 
         <p>
-          不需要一次準備好所有教材，也不用急著追上別人的進度。
-          從孩子目前願意接受、家庭現在做得到的地方開始，
-          再一邊生活、一邊調整。
+          不需要因為別人推薦就馬上報名。
+          先看看4歲零基礎孩子實際上課後的反應、進步和卡關，
+          再判斷一對一外師是不是適合你們家。
         </p>
 
         <div class="start-guide-actions">
@@ -468,14 +581,14 @@ const ageStages = [
             class="start-guide-button start-guide-button-primary"
             href="/blog/tutorjr-100-lessons-review/"
           >
-            看第一篇真實紀錄
+            看tutorJr 100堂真實紀錄
           </a>
 
           <a
             class="start-guide-button start-guide-button-secondary"
-            href="/blog/"
+            href="/trial-guide/"
           >
-            查看所有文章
+            看試聽前準備
           </a>
         </div>
 
