@@ -15,7 +15,7 @@ tags:
   - "Starfall"
   - "自然發音"
   - "線上英文"
-featured: true
+featured: false
 cover: "/images/blog/child-does-not-like-english-cover.webp"
 coverAlt: "4歲小孩不喜歡英文怎麼辦？從排斥英文到主動學習的60天真實紀錄"
 ---
