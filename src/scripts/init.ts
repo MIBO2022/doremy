@@ -1,6 +1,6 @@
 import { enableCopyrightCopy } from "./copyright-copy";
 import { enableImageProtection } from "./image-protection";
-import { enableImageGalleryLightbox } from "./image-gallery-lightbox";
+import "./image-gallery-lightbox";
 
 
 document.addEventListener("astro:page-load", () => {
@@ -9,7 +9,6 @@ document.addEventListener("astro:page-load", () => {
 
     if (window.location.pathname.startsWith("/blog/")) {
         enableCopyrightCopy();
-        enableImageGalleryLightbox();
     }
 
 });
