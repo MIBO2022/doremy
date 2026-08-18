@@ -190,7 +190,7 @@ coverAlt: "4歲零基礎學英文怎麼開始｜比較全美幼、雙語幼、�
 再持續約 1～2 個月後，孩子慢慢建立了每天學英文的習慣。
 
 👉 延伸閱讀：
-[Starfall 完整評價｜英文不好也能陪孩子學英文？4歲女兒60天真實紀錄](/blog/starfall-60-days-review-evergreen/)
+**[Starfall 完整評價｜英文不好也能陪孩子學英文？4歲女兒60天真實紀錄](/blog/starfall-60-days-review-evergreen/)**
 
 這段過程也讓我慢慢放下「是不是開始得太晚」的焦慮。比起追究幾歲開始，我更在意孩子能不能用適合自己的方式持續接觸英文。
 
@@ -269,8 +269,7 @@ coverAlt: "4歲零基礎學英文怎麼開始｜比較全美幼、雙語幼、�
 我認為真正讓孩子願意開口的，不只是老師的口音。
 而是老師是否**懂得陪伴一個 4 歲、零基礎、需要慢慢建立信心的孩子**。
 
-<aside class="evergreen-note evergreen-note--key"><p class="evergreen-note-title">對我們家來說，一位好的老師</p><p>不只是教英文。更重要的是，讓孩子相信：
->  「原來，我也可以開口說英文。」</p></aside>
+<aside class="evergreen-note evergreen-note--key"><p class="evergreen-note-title">對我們家來說，一位好的老師</p><p>不只是教英文。更重要的是，讓孩子相信：「原來，我也可以開口說英文。」</p></aside>
 
 ### 3. 教材能不能幫助孩子建立信心？
 
@@ -415,9 +414,9 @@ Starfall、英文繪本、YouTube，都可以做到。
 
 因此，我們把線上一對一真人外師當成主要付費課程，App則保留作為每天約10分鐘的暖身與複習。
 
-我們後來沒有停用英文App，而是讓每一種工具負責不同任務：Starfall練字母、自然發音與初階閱讀，Khan Academy Kids增加故事和活動，真人外師則負責聽懂問題與開口回答。完整分工可以看：
+我們後來沒有停用英文App，而是讓每一種工具負責不同任務：Starfall練字母、自然發音與初階閱讀，Khan Academy Kids增加故事和活動，真人外師則負責聽懂問題與開口回答。
 
-👉 **[Starfall、Khan Academy Kids和線上外師課怎麼搭配？我們家的幼兒英文安排](/blog/app-and-teacher/)**
+完整分工可以看：👉 **[Starfall、Khan Academy Kids和線上外師課怎麼搭配？我們家的幼兒英文安排](/blog/app-and-teacher/)**
 
 ### 決定找線上一對一外師後，我們才開始比較平台
 
@@ -581,7 +580,7 @@ Starfall、英文繪本、YouTube，都可以做到。
 | 2026/7/10 | 第12次・正式課7 | 第一次清楚獨立回答「My name is Rose.」。 |
 | 2026/8/10 | 第18次・正式課13 | 能回答姓名、年齡和心情，不知道時會主動說「I don't know.」。 |
 
-完整日期、教材、老師國籍、哭鬧與進步過程，請看<a href="/blog/tutorjr-100-lessons-review/">100堂一對一外師課持續紀錄</a>。
+完整日期、教材、老師國籍、哭鬧與進步過程，請看**<a href="/blog/tutorjr-100-lessons-review/">100堂一對一外師課持續紀錄</a>**。
 
 ### 我們最後確認的，不是「哪一家最紅」，而是這些條件
 
