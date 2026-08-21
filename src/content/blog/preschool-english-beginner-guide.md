@@ -13,7 +13,7 @@ tags:
   - "零基礎幼兒英文"
   - "自然發音"
   - "親子共學"
-featured: true
+featured: false
 readingMinutes: 18
 cover: "/images/blog/preschool-english-beginner-guide-cover.webp"
 coverAlt: "幼兒英文啟蒙怎麼開始？3～6歲家庭實作路線圖"
