@@ -17,7 +17,7 @@ tags:
   - "孩子不開口說英文"
   - "線上英文課有效嗎"
   - "免費試聽"
-featured: true
+featured: false
 popularRank: 2
 cover: "/images/blog/tutorjr-20-lessons-cover.webp"
 coverAlt: "tutorJr上完20堂有效嗎｜4歲零基礎第1堂與第20堂真實變化"
