@@ -1,0 +1,36 @@
+.platform-filter {
+  margin: 2rem 0;
+  padding: clamp(1rem, 3vw, 1.5rem);
+  border: 1px solid rgba(15, 23, 42, .12);
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 12px 32px rgba(15, 23, 42, .06);
+}
+.platform-filter__head h2 { margin: 0 0 .5rem; font-size: clamp(1.35rem, 4vw, 1.8rem); }
+.platform-filter__head p { margin: 0; color: #475569; line-height: 1.75; }
+.pf-controls { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: .85rem; margin: 1.25rem 0; }
+.pf-field { display: grid; gap: .4rem; }
+.pf-field label { font-weight: 700; font-size: .92rem; }
+.pf-field select { width: 100%; min-height: 46px; padding: .65rem .75rem; border: 1px solid #cbd5e1; border-radius: 12px; background: #fff; font: inherit; color: #0f172a; }
+.pf-summary { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; padding: .9rem 1rem; border-radius: 12px; background: #f8fafc; }
+.pf-summary strong { display:block; font-size: 1.05rem; }
+.pf-summary p { margin: .25rem 0 0; color:#475569; font-size:.9rem; line-height:1.55; }
+.pf-reset { flex: 0 0 auto; border: 0; border-radius: 999px; padding: .55rem .85rem; background:#0f172a; color:#fff; cursor:pointer; font:inherit; font-weight:700; }
+.pf-results { display:grid; gap: .85rem; margin-top: 1rem; }
+.pf-result-card { border:1px solid #e2e8f0; border-radius:14px; padding:1rem; background:#fff; }
+.pf-result-head { display:flex; gap:.75rem; align-items:center; justify-content:space-between; margin-bottom:.75rem; }
+.pf-result-head h3 { margin:0; font-size:1.12rem; }
+.pf-result-head a { color:inherit; text-decoration:none; }
+.pf-source { font-size:.75rem; white-space:nowrap; padding:.25rem .5rem; border-radius:999px; background:#f1f5f9; color:#475569; }
+.pf-result-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.75rem; }
+.pf-result-grid > div { padding:.75rem; border-radius:10px; background:#f8fafc; }
+.pf-result-grid span, .pf-result-grid small { display:block; color:#64748b; font-size:.8rem; }
+.pf-result-grid strong { display:block; margin:.2rem 0; line-height:1.45; }
+.pf-first-payment { margin:.75rem 0 0; font-size:.88rem; color:#475569; }
+.pf-empty { padding:1.25rem; border:1px dashed #cbd5e1; border-radius:12px; background:#f8fafc; }
+.pf-empty p { margin:.4rem 0 0; }
+@media (max-width: 680px) {
+  .pf-controls, .pf-result-grid { grid-template-columns: 1fr; }
+  .pf-summary { flex-direction:column; }
+  .pf-reset { width:100%; }
+}
