@@ -106,7 +106,6 @@ coverAlt: "2026兒童線上英文推薦與比較｜17家平台費用、師資、
     <h2 id="platform-filter-title">用 6 個條件篩選兒童線上英文平台</h2>
     <p>這不是推薦排名。只有平台公開資料已能確認的欄位才會參與精準匹配；待核實或版本衝突不會被自行猜成符合。</p>
   </div>
-
   <div class="pf-controls">
     <div class="pf-field">
       <label for="pf-age">孩子年齡</label>
@@ -119,7 +118,6 @@ coverAlt: "2026兒童線上英文推薦與比較｜17家平台費用、師資、
         <option value="15">15 歲</option>
       </select>
     </div>
-
     <div class="pf-field">
       <label for="pf-budget">希望單堂公開價不高於</label>
       <select id="pf-budget" name="pf-budget">
@@ -131,7 +129,6 @@ coverAlt: "2026兒童線上英文推薦與比較｜17家平台費用、師資、
         <option value="800">NT$800</option>
       </select>
     </div>
-    
     <div class="pf-field">
       <label for="pf-teacher">老師連續性</label>
       <select id="pf-teacher" name="pf-teacher">
@@ -140,7 +137,6 @@ coverAlt: "2026兒童線上英文推薦與比較｜17家平台費用、師資、
         <option value="formal">只看正式固定老師方案</option>
       </select>
     </div>
-    
     <div class="pf-field">
       <label for="pf-cancel">臨時取消，希望最晚可到</label>
       <select id="pf-cancel" name="pf-cancel">
@@ -153,7 +149,6 @@ coverAlt: "2026兒童線上英文推薦與比較｜17家平台費用、師資、
         <option value="24">24 小時前</option>
       </select>
     </div>
-    
     <div class="pf-field">
       <label for="pf-recording">課後紀錄</label>
       <select id="pf-recording" name="pf-recording">
@@ -162,7 +157,6 @@ coverAlt: "2026兒童線上英文推薦與比較｜17家平台費用、師資、
         <option value="any-recording">影片／音訊／板書任一可複習紀錄</option>
       </select>
     </div>
-    
     <div class="pf-field">
       <label for="pf-payment">付款型態</label>
       <select id="pf-payment" name="pf-payment">
@@ -174,7 +168,6 @@ coverAlt: "2026兒童線上英文推薦與比較｜17家平台費用、師資、
       </select>
     </div>
   </div>
-
   <div class="pf-summary" aria-live="polite">
     <div>
       <strong data-pf-count></strong>
@@ -182,7 +175,6 @@ coverAlt: "2026兒童線上英文推薦與比較｜17家平台費用、師資、
     </div>
     <button type="button" class="pf-reset" data-pf-reset>清除全部條件</button>
   </div>
-
   <div class="pf-results" data-pf-results></div>
 </section>
 
