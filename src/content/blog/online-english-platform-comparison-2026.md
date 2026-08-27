@@ -16,6 +16,10 @@ tags:
   - "TutorJr"
   - "OiKID"
   - "51Talk"
+featured: false
+readingMinutes: 12
+cover: "/images/blog/online-english-platform-comparison-cover.webp"
+coverAlt: "2026兒童線上英文推薦與比較｜17家平台費用、師資、固定老師、請假退費完整整理"
 ---
 
 <div class="evergreen-meta" aria-label="文章資訊">
