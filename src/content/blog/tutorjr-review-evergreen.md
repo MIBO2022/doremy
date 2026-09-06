@@ -1095,6 +1095,7 @@ Kids訂製英文先出現她熟悉的字母、歌曲、數字、顏色和生活�
 ### 延伸閱讀：依你現在遇到的問題繼續看
 
 - 還在比較學習方式：**[4歲零基礎學英文怎麼開始](/blog/how-to-choose-english-for-preschoolers/)**
+- 還在比較不同線上英文平台：**[17家兒童線上英文平台完整比較](/blog/online-english-platform-comparison-2026/)**
 - 想確認長期是否有效：**[100堂一對一外師課持續紀錄](/blog/tutorjr-100-lessons-review/)**
 - 孩子剛開始不敢開口：**[上完10堂後的真實變化](/blog/tutorjr-10-lessons-parent-review/)**
 - 孩子上課前緊張或抗拒：**[課前準備與課後複習方法](/blog/tutorjr-class-preparation-review/)**
