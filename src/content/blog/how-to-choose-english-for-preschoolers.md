@@ -3,7 +3,7 @@ title: "4歲零基礎學英文怎麼開始？全美幼、雙語幼、補習班�
 description: "4歲零基礎該怎麼學英文？台灣媽媽實際比較全美幼、雙語幼、補習班、英文App與線上外師，整理5家平台價格及三家試聽結果，分享最後選TutorABCJr Kids、英美籍老師一對一不到600元的原因。"
 draft: false
 pubDate: 2026-08-05
-updatedDate: 2026-08-18
+updatedDate: 2026-09-06
 category: "線上外師課"
 tags:
   - "4歲學英文"
@@ -26,7 +26,7 @@ coverAlt: "4歲零基礎學英文怎麼開始｜比較全美幼、雙語幼、�
 <div class="evergreen-meta" aria-label="文章資訊">
   <span>真實使用紀錄</span>
   <span>約35分鐘閱讀</span>
-  <span>最後更新：2026/08/18</span>
+  <span>最後更新：2026/09/06</span>
 </div>
 
 <div class="evergreen-summary">
