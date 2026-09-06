@@ -451,7 +451,7 @@ Starfall、英文繪本、YouTube，都可以做到。
 
 如果你現在已經確定想找線上英文，但還在不同平台之間猶豫，可以先看這篇：
 
-👉 **［2026兒童線上英文推薦與比較｜17家平台費用、師資、固定老師、請假退費完整整理](/blog/online-english-platform-comparison-2026/)**
+👉**[2026兒童線上英文推薦與比較｜17家平台費用、師資、固定老師、請假退費完整整理](/blog/online-english-platform-comparison-2026/)**
 
 我把自己研究過的17家平台放在同一篇裡比較，包括tutorJr、OiKID、51Talk、Native Camp、Cambly Kids，以及其他台灣家長常見的兒童線上英文平台。
 
