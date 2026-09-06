@@ -892,6 +892,7 @@ Kids課程以字母、童謠、數字、顏色、形狀與生活情境為主，�
     <li>還在考慮全美幼或一般幼兒園：<a href="/blog/not-all-english-kindergarten/">先算一年費用與家庭可負擔的英文安排</a></li>
     <li>孩子現在抗拒或不想學英文：<a href="/blog/child-does-not-like-english/">看我們如何用60天降低壓力、找回參與感</a></li>
     <li>想先用免費資源建立習慣：<a href="/blog/starfall-60-days-review-evergreen/">查看Starfall超過60天的完整使用紀錄</a></li>
+    <li>還在比較不同線上英文平台：<a href="/blog/online-english-platform-comparison-2026/">查看17家兒童線上英文平台費用、師資與制度比較</a></li>
     <li>正在評估TutorABCJr：<a href="/blog/tutorjr-review-evergreen/">查看Kids、Oxford方案、費用、教材與合約整理</a></li>
     <li>想知道購課後有沒有持續進步：<a href="/blog/tutorjr-100-lessons-review/">追蹤我們的100堂一對一外師課紀錄</a></li>
   </ul>
