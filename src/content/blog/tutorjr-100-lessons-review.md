@@ -3,7 +3,7 @@ title: "tutorJr有效嗎？4歲零基礎挑戰100堂一對一外師課：從不�
 description: "tutorJr和幼兒線上英文課有效嗎？4歲零基礎女兒目前完成20次一對一外師課。我們的結論是有效，但不是只買課就有效；完整記錄不敢開口、哭鬧到主動回答的變化，以及家長實測的陪課、預習與複習方法。"
 draft: false
 pubDate: 2026-08-10
-updatedDate: 2026-09-05
+updatedDate: 2026-09-09
 category: "線上外師課"
 tags:
   - "4歲學英文"
@@ -27,8 +27,8 @@ coverAlt: "tutorJr有效嗎｜4歲零基礎挑戰100堂一對一外師課真實�
 <div class="evergreen-meta" aria-label="文章資訊">
   <span>4歲零基礎真實紀錄</span>
   <span>100堂持續更新</span>
-  <span>目前進度：20／100</span>
-  <span>最後更新：2026/09/05</span>
+  <span>目前進度：24／100</span>
+  <span>最後更新：2026/09/09</span>
 </div>
 <div class="evergreen-summary">
   <p class="evergreen-eyebrow">30秒先看結論</p>
@@ -40,7 +40,7 @@ coverAlt: "tutorJr有效嗎｜4歲零基礎挑戰100堂一對一外師課真實�
 
 <aside class="evergreen-note evergreen-note--rose">
   <p class="evergreen-note-title">堂數說明：</p>
-  <p>截至2026/8/20，我們共完成20次一對一課程，包含1堂免費試聽、1堂贈送正式課、3堂雙語導師課，以及購課後15堂正式課。本文統一依「實際上課次數」排列，避免試聽、贈課及正式課使用不同算法而混淆。</p>
+  <p>截至2026/9/8，我們共完成24次一對一課程，包含1堂免費試聽、1堂贈送正式課、3堂雙語導師課，以及購課後19堂正式課。本文統一依「實際上課次數」排列，避免試聽、贈課及正式課使用不同算法而混淆。</p>
 </aside>
 
 <aside class="evergreen-note evergreen-note--rose">
@@ -884,6 +884,11 @@ tutorJr目前官網將服務年齡標示為4～18歲；我們女兒4歲，也確
     <span>2026/9/4｜第23次上課・正式課18</span>
     <strong>沒有特別驚喜的一堂：25分鐘穩定上完，進步開始變得沒那麼明顯</strong>
     <p>這堂主題是KIDs I - Lesson 19 - Baa Baa Black Sheep，練習bag、wool、little，也複習sheep、cow、pig。女兒大部分內容都會，能完整上完25分鐘，偶爾分心玩玩具，但老師詢問3次內通常會回到課堂並回答。老師回饋她能跟著唱歌、參與課程。媽媽反而第一次覺得這堂「平平無奇」，可能是最近表現逐漸穩定，以前覺得很大的進步，現在竟然慢慢變成習以為常了。</p>
+  </div>
+  <div class="evergreen-timeline-item">
+    <span>2026/9/8｜第24次上課・正式課19</span>
+    <strong>從回答一個單字，到開始努力說完整短句：25分鐘也突然變得好快</strong>
+    <p>這堂主題是KIDs I - Lesson 20 - Letter J，全英文一對一25分鐘。老師回饋提到，女兒能順利回想lemon、guitar、形狀和顏色等學過的單字，juice、moon、cloud則還需要繼續練習。媽媽這堂最有感的是，她開始從回答單字慢慢往完整短句前進：從「bear」到「It is a bear」、從「white」到「It is white」、從「happy」到「I am happy」、從「orange juice」到「I like orange juice」。前幾堂還常覺得「怎麼才上10分鐘」，現在竟然變成「感覺才剛準備好，怎麼就下課了？」🤣 看著4歲女兒一點一點把單字變成句子，媽媽突然有點感動🥹</p>
   </div>
 </div>
 
