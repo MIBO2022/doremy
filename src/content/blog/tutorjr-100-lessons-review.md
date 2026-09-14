@@ -3,7 +3,7 @@ title: "tutorJr有效嗎？4歲零基礎挑戰100堂一對一外師課：從不�
 description: "tutorJr和幼兒線上英文課有效嗎？4歲零基礎女兒目前完成20次一對一外師課。我們的結論是有效，但不是只買課就有效；完整記錄不敢開口、哭鬧到主動回答的變化，以及家長實測的陪課、預習與複習方法。"
 draft: false
 pubDate: 2026-08-10
-updatedDate: 2026-09-09
+updatedDate: 2026-09-14
 category: "線上外師課"
 tags:
   - "4歲學英文"
@@ -27,8 +27,8 @@ coverAlt: "tutorJr有效嗎｜4歲零基礎挑戰100堂一對一外師課真實�
 <div class="evergreen-meta" aria-label="文章資訊">
   <span>4歲零基礎真實紀錄</span>
   <span>100堂持續更新</span>
-  <span>目前進度：24／100</span>
-  <span>最後更新：2026/09/09</span>
+  <span>目前進度：25／100</span>
+  <span>最後更新：2026/09/14</span>
 </div>
 <div class="evergreen-summary">
   <p class="evergreen-eyebrow">30秒先看結論</p>
@@ -889,6 +889,11 @@ tutorJr目前官網將服務年齡標示為4～18歲；我們女兒4歲，也確
     <span>2026/9/8｜第24次上課・正式課19</span>
     <strong>從回答一個單字，到開始努力說完整短句：25分鐘也突然變得好快</strong>
     <p>這堂主題是KIDs I - Lesson 20 - Letter J，全英文一對一25分鐘。老師回饋提到，女兒能順利回想lemon、guitar、形狀和顏色等學過的單字，juice、moon、cloud則還需要繼續練習。媽媽這堂最有感的是，她開始從回答單字慢慢往完整短句前進：從「bear」到「It is a bear」、從「white」到「It is white」、從「happy」到「I am happy」、從「orange juice」到「I like orange juice」。前幾堂還常覺得「怎麼才上10分鐘」，現在竟然變成「感覺才剛準備好，怎麼就下課了？」🤣 看著4歲女兒一點一點把單字變成句子，媽媽突然有點感動🥹</p>
+  </div>
+  <div class="evergreen-timeline-item">
+    <span>2026/9/14｜第25次上課・正式課20</span>
+    <strong>課程開始覺得有點簡單？老師現在更要求她用「完整句子」回答</strong>
+    <p>這堂由固定的美國老師上課，主題是KIDs I - Lesson 21 - COLORS（RED, YELLOW, GREEN）。顏色對女兒來說已經很熟悉，整堂25分鐘上得很順，老師也開始不只接受red、green這種單字回答，而是持續引導她用「It is green.」這類完整短句回答。老師課後回饋也提到，她已經能自己打招呼、說再見，理解match、circle、color等課堂指令，並在協助下用完整句子回答問題。媽媽反而第一次開始想：現在一週2堂，課程對她來說似乎慢慢變簡單了，是不是可以增加到一週3～4堂？</p>
   </div>
 </div>
 
