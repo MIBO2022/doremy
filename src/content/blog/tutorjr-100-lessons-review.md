@@ -900,6 +900,11 @@ tutorJr目前官網將服務年齡標示為4～18歲；我們女兒4歲，也確
     <strong>第一次在車上完成25分鐘英文課：換了環境，學習節奏也沒有中斷</strong>
     <p>這堂主題是KIDs I - Lesson 22 - Letter K，由固定UK老師上課。剛好帶女兒出遊，擔心行車途中網路不穩，我們乾脆停好車再上課，沒想到她就在車上順利完成25分鐘全英文一對一。老師回饋她已能輕鬆辨認字母，這堂練習K的發音及kite、kangaroo、koala、king、key等單字，跟讀和發音都很順。媽媽這堂最有感的反而不是學了多少，而是換到車上也能正常上課，25分鐘結束再繼續出發，第一次感受到線上課在生活安排上的彈性。</p>
   </div>
+  <div class="evergreen-timeline-item">
+    <span>2026/9/22｜第27次上課・正式課22</span>
+    <strong>第一次邊泡溫泉邊上英文課：前5分鐘有點分心，後來還是順利進入狀況</strong>
+    <p>這堂在知本國家森林遊樂區上課，主題是KIDs I - Lesson 23 - COLOR PICNIC。女兒一開始忙著泡溫泉有點分心，但老師很快把她拉回課堂，後面20分鐘上得很開心。這堂練習red apples、yellow bananas、green grapes、orange carrots，老師也特別提到她能順利找出野餐籃裡的神秘水果。媽媽原本還擔心換環境會上不了課，結果從車上到溫泉，反而慢慢發現4歲小孩不一定非得坐在書桌前，願意跟老師互動、開口才是目前更重要的事。</p>
+  </div>
 </div>
 
 <div class="evergreen-note" role="note">
