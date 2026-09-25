@@ -3,7 +3,7 @@ title: "tutorJr有效嗎？4歲零基礎挑戰100堂一對一外師課：從不�
 description: "tutorJr和幼兒線上英文課有效嗎？4歲零基礎女兒目前完成20次一對一外師課。我們的結論是有效，但不是只買課就有效；完整記錄不敢開口、哭鬧到主動回答的變化，以及家長實測的陪課、預習與複習方法。"
 draft: false
 pubDate: 2026-08-10
-updatedDate: 2026-09-19
+updatedDate: 2026-09-25
 category: "線上外師課"
 tags:
   - "4歲學英文"
@@ -27,8 +27,8 @@ coverAlt: "tutorJr有效嗎｜4歲零基礎挑戰100堂一對一外師課真實�
 <div class="evergreen-meta" aria-label="文章資訊">
   <span>4歲零基礎真實紀錄</span>
   <span>100堂持續更新</span>
-  <span>目前進度：25／100</span>
-  <span>最後更新：2026/09/19</span>
+  <span>目前進度：28／100</span>
+  <span>最後更新：2026/09/25</span>
 </div>
 <div class="evergreen-summary">
   <p class="evergreen-eyebrow">30秒先看結論</p>
@@ -904,6 +904,11 @@ tutorJr目前官網將服務年齡標示為4～18歲；我們女兒4歲，也確
     <span>2026/9/22｜第27次上課・正式課22</span>
     <strong>第一次邊泡溫泉邊上英文課：前5分鐘有點分心，後來還是順利進入狀況</strong>
     <p>這堂在知本國家森林遊樂區上課，主題是KIDs I - Lesson 23 - COLOR PICNIC。女兒一開始忙著泡溫泉有點分心，但老師很快把她拉回課堂，後面20分鐘上得很開心。這堂練習red apples、yellow bananas、green grapes、orange carrots，老師也特別提到她能順利找出野餐籃裡的神秘水果。媽媽原本還擔心換環境會上不了課，結果從車上到溫泉，反而慢慢發現4歲小孩不一定非得坐在書桌前，願意跟老師互動、開口才是目前更重要的事。</p>
+  </div>
+  <div class="evergreen-timeline-item">
+    <span>2026/9/25｜第28次上課・正式課23</span>
+    <strong>700分鐘後最大的收穫：從「螞蟻聲」到敢大聲開口說英文</strong>
+    <p>這堂由固定UK老師上課，主題是KIDs I - Lesson 24 - Letter L。lemon、lion已經熟悉，ladybug則是新單字。上到後半堂，媽媽突然發現女兒回答老師的聲音變得好大聲，不再是剛開始學英文時的「螞蟻聲」了。從1堂試聽、4堂贈送到23堂正式課，總計28堂、700分鐘一對一英文，現在最讓媽媽開心的不是她會多少單字，而是收穫了一個「敢大聲開口說英文」的4歲女兒。</p>
   </div>
 </div>
 
