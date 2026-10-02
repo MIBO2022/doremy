@@ -3,7 +3,7 @@ title: "tutorJr有效嗎？4歲零基礎挑戰100堂一對一外師課：從不�
 description: "tutorJr和幼兒線上英文課有效嗎？4歲零基礎女兒目前完成20次一對一外師課。我們的結論是有效，但不是只買課就有效；完整記錄不敢開口、哭鬧到主動回答的變化，以及家長實測的陪課、預習與複習方法。"
 draft: false
 pubDate: 2026-08-10
-updatedDate: 2026-09-25
+updatedDate: 2026-09-29
 category: "線上外師課"
 tags:
   - "4歲學英文"
@@ -27,8 +27,8 @@ coverAlt: "tutorJr有效嗎｜4歲零基礎挑戰100堂一對一外師課真實�
 <div class="evergreen-meta" aria-label="文章資訊">
   <span>4歲零基礎真實紀錄</span>
   <span>100堂持續更新</span>
-  <span>目前進度：28／100</span>
-  <span>最後更新：2026/09/25</span>
+  <span>目前進度：29／100</span>
+  <span>最後更新：2026/09/29</span>
 </div>
 <div class="evergreen-summary">
   <p class="evergreen-eyebrow">30秒先看結論</p>
@@ -909,6 +909,11 @@ tutorJr目前官網將服務年齡標示為4～18歲；我們女兒4歲，也確
     <span>2026/9/25｜第28次上課・正式課23</span>
     <strong>700分鐘後最大的收穫：從「螞蟻聲」到敢大聲開口說英文</strong>
     <p>這堂由固定UK老師上課，主題是KIDs I - Lesson 24 - Letter L。lemon、lion已經熟悉，ladybug則是新單字。上到後半堂，媽媽突然發現女兒回答老師的聲音變得好大聲，不再是剛開始學英文時的「螞蟻聲」了。從1堂試聽、4堂贈送到23堂正式課，總計28堂、700分鐘一對一英文，現在最讓媽媽開心的不是她會多少單字，而是收穫了一個「敢大聲開口說英文」的4歲女兒。</p>
+  </div>
+  <div class="evergreen-timeline-item">
+    <span>2026/9/29｜第29次上課・正式課24</span>
+    <strong>前10堂還在適應，現在最慶幸的是：她真的「不排斥英文」了</strong>
+    <p>這堂由固定UK老師上課，主題是KIDs I - Lesson 25 - Hickory Dickory Dock，跟著兒歌練習clock、mouse、sofa、window，也搭配動作和拍手。老師給了參與度、發音、理解力、聽解力等滿分評價。回頭看前10堂還在慢慢適應，後面的課幾乎都能開開心心上完，今天甚至會主動跟老師玩起遊戲。累計29堂後，媽媽現在最慶幸的不是她學會多少英文，而是4歲的她沒有排斥英文，反而越來越願意開口、互動，也開始有點期待100堂上完後，她會變成什麼樣子😆</p>
   </div>
 </div>
 
