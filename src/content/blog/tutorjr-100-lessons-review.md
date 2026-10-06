@@ -915,6 +915,11 @@ tutorJr目前官網將服務年齡標示為4～18歲；我們女兒4歲，也確
     <strong>前10堂還在適應，現在最慶幸的是：她真的「不排斥英文」了</strong>
     <p>這堂由固定UK老師上課，主題是KIDs I - Lesson 25 - Hickory Dickory Dock，跟著兒歌練習clock、mouse、sofa、window，也搭配動作和拍手。老師給了參與度、發音、理解力、聽解力等滿分評價。回頭看前10堂還在慢慢適應，後面的課幾乎都能開開心心上完，今天甚至會主動跟老師玩起遊戲。累計29堂後，媽媽現在最慶幸的不是她學會多少英文，而是4歲的她沒有排斥英文，反而越來越願意開口、互動，也開始有點期待100堂上完後，她會變成什麼樣子😆</p>
   </div>
+  <div class="evergreen-timeline-item">
+    <span>2026/10/2｜第30次上課・正式課25</span>
+    <strong>上完30堂還是覺得英文很難，但她開始會自己問「為什麼？」</strong>
+    <p>這堂由固定UK老師上課，主題是KIDs I - Lesson 26 - Letter M。monkey、mouse、moon、milk已經認得，這堂新學mushroom、mango，也複習plane、train、car、bus、rocket、truck、fire truck、boat等交通工具。最近女兒很喜歡跟老師玩Hide and Find，老師把東西藏起來讓她找，也是媽媽很推薦親子共學時一起玩的英文小遊戲。上完第30堂，我問4歲女兒現在覺得英文怎麼樣？她還是覺得「好難」，但接著很認真問我：「Orange明明是橘子🍊，為什麼也是橘色？Rainbow明明是彩虹🌈，為什麼又是彩色？」媽媽聽到反而很開心🥹 從一開始覺得「一直重複英文好難」，到現在開始注意同一個英文為什麼會有不同意思，原來她真的一直有在聽、也有在想。</p>
+  </div>
 </div>
 
 <div class="evergreen-note" role="note">
