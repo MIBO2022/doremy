@@ -12,7 +12,7 @@ const tallyEmbedUrl = tallyFormId && /^[A-Za-z0-9]+$/.test(tallyFormId)
 <BaseLayout
   title={title}
   description={description}
-  breadcrumbs={[{ name: '首頁', path: '/' }, { name: '30 天玩出英文力', path: '/english-play-30-days/' }]}
+  breadcrumbs={[{ name: '首頁', path: '/' }, { name: '30 天玩出英文力', path: '/english-play-plans/' }]}
   bodyClass="english-plan-body"
 >
   <main class="plan">
@@ -32,7 +32,10 @@ const tallyEmbedUrl = tallyFormId && /^[A-Za-z0-9]+$/.test(tallyFormId)
         <p>女兒 4 歲從零開始學英文。她原本一聽到要學英文就說不要。後來有一天，她居然自己跟我說：「我好期待學英文！」</p>
         <p>這半年累積上了 <strong>30 多堂英文課</strong>，她現在敢在課堂上開口，回家有時還會反過來教爸爸媽媽英文。</p>
         <p><strong>我後來才發現，孩子玩到有話想說，就有了開口的理由。</strong></p>
-        <p>我花了半年摸索怎麼開始。妳今晚翻開計畫，就知道第一天怎麼陪。每天找教材、排進度的時間可以省下來，那筆還在考慮的學費也可以先留著。</p>
+        <p>我花了半年，才摸索出怎麼陪一個一聽到英文就說不要的孩子開始。如果妳也卡在「今晚到底要教什麼」，我把起步的安排整理成了<strong>《30 天玩出英文力》</strong>。打開 PDF，從第 1 天就知道怎麼陪。</p>
+        <p><strong>每天抓 10～15 分鐘，每週不超過 2 小時</strong>，帶孩子從願意聽英文，到聽懂熟悉的話、想說時敢開口。教材不用再到處找，還在考慮的美語課，也可以先在家試一個月再決定。</p>
+        <a class="button" href="#get-plan">免費下載 30 天學習計畫</a>
+        <p>送出表單後，即可在成功頁免費下載 PDF。</p>
       </div>
     </section>
 
@@ -64,7 +67,7 @@ const tallyEmbedUrl = tallyFormId && /^[A-Za-z0-9]+$/.test(tallyFormId)
       <p>給 4～6 歲、剛開始學英文的孩子。翻開就知道第一天怎麼開始，省下找教材、排進度的時間，先在家陪孩子練聽、練開口，學費可以晚一點再決定。</p>
       {tallyEmbedUrl ? (
         <>
-          <p>填寫 Email 後，就能立即開啟學習計畫 PDF。</p>
+          <p>送出表單後，即可在成功頁免費下載 PDF。</p>
           <iframe
             class="tally-form"
             src={tallyEmbedUrl}
