@@ -1,0 +1,102 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = '30 天玩出英文力｜Rose Lab 免費幼兒英文學習計畫';
+const description = '陪 4～6 歲零基礎的孩子邊玩邊學。每天抓 10～15 分鐘，每週不超過 2 小時，從願意聽英文，到聽懂熟悉的話、敢試著開口。';
+const tallyFormId = '7XLaza';
+const tallyEmbedUrl = tallyFormId && /^[A-Za-z0-9]+$/.test(tallyFormId)
+  ? `https://tally.so/embed/${tallyFormId}?hideTitle=1&transparentBackground=1&dynamicHeight=1`
+  : undefined;
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  breadcrumbs={[{ name: '首頁', path: '/' }, { name: '30 天玩出英文力', path: '/english-play-30-days/' }]}
+  bodyClass="english-plan-body"
+>
+  <main class="plan">
+    <section class="page-hero wrap" aria-labelledby="plan-title">
+      <p class="intro">學英文應該要簡單，而且有效！</p>
+      <h1 id="plan-title">30 天玩出英文力</h1>
+      <p class="lead">陪孩子聽懂熟悉的英文，想說的時候敢開口。</p>
+      <p>每天抓 <strong>10～15 分鐘</strong>，每週不超過 <strong>2 小時</strong>。</p>
+      <div class="hero-action">
+        <a class="button" href="#get-plan">免費領取 30 天學習計畫</a>
+      </div>
+    </section>
+
+    <section class="section wrap" aria-labelledby="rose-story">
+      <div class="story-card">
+        <h2 id="rose-story">「我好期待學英文！」</h2>
+        <p>女兒 4 歲從零開始學英文。她原本一聽到要學英文就說不要。後來有一天，她居然自己跟我說：「我好期待學英文！」</p>
+        <p>這半年累積上了 <strong>30 多堂英文課</strong>，她現在敢在課堂上開口，回家有時還會反過來教爸爸媽媽英文。</p>
+        <p><strong>我後來才發現，孩子玩到有話想說，就有了開口的理由。</strong></p>
+        <p>我花了半年摸索怎麼開始。妳今晚翻開計畫，就知道第一天怎麼陪。每天找教材、排進度的時間可以省下來，那筆還在考慮的學費也可以先留著。</p>
+      </div>
+    </section>
+
+    <article class="wrap">
+      <p>無論是自己學英文，還是陪孩子學英文，最簡單、也最容易持續的學習計畫，始於一件本來就有興趣做的事。對小小孩來說，那件事通常就是玩。</p>
+      <p>一個好的英文學習計畫，最基礎的就是孩子願意再來一次。願意玩，就有機會多聽幾次。聽懂了，想說的時候，就有機會自己試著說。這些聽說經驗，也是往後學閱讀、寫作和文法的基礎。</p>
+      <p>不過，幼兒園有上美語，回家還要另外陪嗎？想自己陪，又怕發音不夠標準。好不容易下班、接小孩、吃完晚餐，手機裡存了一堆教材，還是不知道今天要從哪裡開始。</p>
+
+      <h2>不要把錢和時間花在沒有效果的英文學習方法上</h2>
+      <p>如果還沒花錢幫孩子學英文，可以先把學費留在口袋裡。要不要另外上兒童美語？要不要為了英文換一間雙語幼兒園？有些選擇一做下去，就是好幾萬元。先用免費計畫在家陪一個月，看看孩子能聽懂什麼、願不願意開口，再決定這筆錢要不要花。</p>
+      <p>如果已經繳了學費，也可以搭配這份計畫。孩子在課堂上會跟著老師說，回家問他今天學了什麼，只回一句「我忘了」。平常多一點機會聽他怎麼說、看他聽到英文怎麼回應，下期要不要續報，心裡也比較有底。</p>
+
+      <h2>花了學費和時間，就該看得見學習效果</h2>
+      <p>上一堂課還得排接送、喬晚餐時間。孩子放學已經累了，還要再專心一堂課。家長當然會想知道，這些時間和心力有沒有回報。</p>
+      <p>我想看見的進步很具體。以前一提到英文就說不要，現在願意聽一下。以前聽到熟悉的話沒有反應，現在聽得懂了。再後來，有一天大人還沒開口，孩子自己先說了。</p>
+
+      <h2>為什麼我們學了那麼多年英文，還是怕開口？</h2>
+      <p>我們這一輩從小背單字、寫題目、準備考試。媽媽本人也是。以前一想到要開口說英文，真的會突然心跳加快，連肚子都隱隱不舒服。</p>
+      <p>我以前聽到英文，總要先在腦中翻成中文。輪到自己開口，又要把中文翻回英文。等我把單字和文法想好，人家早就在聊下一句了。當了媽媽以後，我希望女兒早一點有機會體會，原來我聽得懂，原來我也說得出來。</p>
+
+      <h2>這份 30 天英文學習計畫，陪你走過最難開始的那一段</h2>
+      <p>我不想讓女兒再走一次我走過的路，所以從一開始，我就沒有讓她去補習班。我決定把自己熟悉的那套學法打掉重練。</p>
+      <p>一開始，我也很執著於全美語幼兒園或雙語幼兒園。看到有些幼兒園一個月要三到五萬元，真的很傷荷包。難道每個月拿不出這筆錢，孩子就沒辦法把英文學好嗎？</p>
+      <p>我花了半年做功課，陪女兒慢慢試。我發現，她玩得開心、對眼前的事有興趣，就更願意接觸英文。<strong>孩子有自己想說的話，就有了開口的理由。</strong></p>
+    </article>
+
+    <section id="get-plan" class="section section-cta cta-card" aria-labelledby="signup-title">
+      <h2 id="signup-title">免費領取「30 天玩出英文力」</h2>
+      <p>給 4～6 歲、剛開始學英文的孩子。翻開就知道第一天怎麼開始，省下找教材、排進度的時間，先在家陪孩子練聽、練開口，學費可以晚一點再決定。</p>
+      {tallyEmbedUrl ? (
+        <>
+          <p>填寫 Email 後，就能立即開啟學習計畫 PDF。</p>
+          <iframe
+            class="tally-form"
+            src={tallyEmbedUrl}
+            title="領取 30 天玩出英文力學習計畫"
+            loading="lazy"
+            height="280"
+          ></iframe>
+          <script is:inline async src="https://tally.so/widgets/embed.js"></script>
+          <p class="note"><a href={`https://tally.so/r/${tallyFormId}`}>表單沒顯示？開啟領取表單</a></p>
+        </>
+      ) : (
+        <p class="note">學習計畫領取即將開放。</p>
+      )}
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  .plan { max-width: 48rem; margin-inline: auto; padding: 1.25rem 1rem 3rem; line-height: 1.85; }
+  .page-hero, .story-card, .cta-card { background: #f3f8f3; border-radius: 1rem; padding: clamp(1.25rem, 5vw, 2.5rem); }
+  .section { margin-block: 1.5rem; }
+  .story-card { background: #fffaf1; }
+  .hero-action { margin-top: 1rem; }
+  .intro { margin: 0; font-weight: 700; color: #285943; }
+  h1 { margin: .35rem 0; line-height: 1.2; font-size: clamp(2rem, 6vw, 3.4rem); }
+  .lead { font-size: 1.125rem; }
+  article { margin-block: 2rem; }
+  h2 { margin: 1.75rem 0 .5rem; line-height: 1.45; }
+  .story-card h2, .cta-card h2 { margin-top: 0; }
+  .cta-card { scroll-margin-top: 5rem; }
+  .tally-form { display: block; width: 100%; border: 0; }
+  .button { display: inline-block; width: fit-content; padding: .65rem 1rem; border: 0; border-radius: .5rem; background: #20513b; color: white; font: inherit; font-weight: 700; text-decoration: none; cursor: pointer; }
+  .button:focus-visible { outline: 3px solid #4169a0; outline-offset: 3px; }
+  .note { font-size: .9rem; margin: 0; }
+</style>
